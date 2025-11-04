@@ -8,10 +8,10 @@ A fase de **Concepção** tem como objetivo alinhar stakeholders, estabelecer a 
 
 ### Roles
 - [Stakeholder](roles/stakeholders.md)
-- Engenheiro de Requisitos(roles/engenheiro-requisitos.md)
-- Arquiteto de Software(roles/arquiteto-software.md)
-- Gerente de Projeto(roles/gerente-projeto.md)
-- Desenvolvedor (participação menor, quando necessário)(roles/desenvolvedor.md)
+- [Engenheiro de Requisitos](roles/engenheiro-requisitos.md)
+- [Arquiteto de Software](roles/arquiteto-software.md)
+- [Gerente de Projeto](roles/gerente-projeto.md)
+- [Desenvolvedor](roles/desenvolvedor.md) - participação menor, quando necessário
 
 ### Tasks
 - Definir a Visão
