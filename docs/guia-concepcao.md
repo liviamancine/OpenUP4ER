@@ -7,11 +7,11 @@ A fase de **Concepção** tem como objetivo alinhar stakeholders, estabelecer a 
 ## Method Content (átomos)
 
 ### Roles
-- Stakeholder
-- Engenheiro de Requisitos
-- Arquiteto de Software
-- Gerente de Projeto
-- Desenvolvedor (participação menor, quando necessário)
+- [Stakeholder](roles/stakeholders.md)
+- Engenheiro de Requisitos(roles/engenheiro-requisitos.md)
+- Arquiteto de Software(roles/arquiteto-software.md)
+- Gerente de Projeto(roles/gerente-projeto.md)
+- Desenvolvedor (participação menor, quando necessário)(roles/desenvolvedor.md)
 
 ### Tasks
 - Definir a Visão
