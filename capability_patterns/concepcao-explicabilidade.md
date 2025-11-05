@@ -22,7 +22,7 @@ O [Gerente de Projeto](../role;gerente-projetos) (colaborando e buscando concord
 
 
 ## Papéis Envolvidos
-- Engenheiro de Requisitos  
+- [Engenheiro de Requisitos]
 - Arquiteto de Software  
 - Especialista em Explicabilidade  
 - Stakeholders (Examinadores, Usuários Finais, Reguladores)
