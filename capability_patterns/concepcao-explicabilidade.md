@@ -15,17 +15,23 @@ Os papéis de [Engenheiro de Requisitos](../roles/engenheiro-requisitos.md) e [S
 O [Gerente de Projeto](../role;gerente-projetos) (colaborando e buscando concordância com a equipe de projeto e os Stakeholders) propõe um plano de projeto de alto nível do requisito de explicabilidade, que inclui os marcos para as quatro fases e iterações necessárias para garantir sua definição e evolução. 
 
 ---
-## Estrutura de Decomposição
+## Decomposição do Trabalho
 > Para ver os elementos detalhados desta fase (tarefas, papéis e artefatos relacionados), consulte:
 
-**[Decomposição da Fase de Concepção](concepcao-decomposicao.md)**  
+**[Decomposição de Trabalho](concepcao-decomposicao.md)**  
 
 
 ## Papéis Envolvidos
-- [Engenheiro de Requisitos]
-- Arquiteto de Software  
-- Especialista em Explicabilidade  
-- Stakeholders (Examinadores, Usuários Finais, Reguladores)
+- [Engenheiro de Requisitos](../roles/engenheiro-requisitos.md)
+- [Arquiteto de Software](../roles/arquiteto-software.md)  
+- [Stakeholders](..roles/stakeholders.md)
+- [Gerente de Projetos](..roles/gerente-projetos.md)
+- [Cientista de Dados/Eng. IA](..roles/cientista-dados-eng-IA)
+- [Especialista em Ética e Regulação](..roles/especialista-etica-regulacao)
+
+  > Para ver os elementos detalhados desta fase (tarefas, papéis e artefatos relacionados), consulte:
+
+**[Decomposição da Equipe](alocacao-equipe-concepcao.md)**  
 
 ---
 
