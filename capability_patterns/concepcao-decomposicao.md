@@ -21,13 +21,14 @@
 | Stakeholder | – | [Executor Adicional](../roles/stakeholders.md) | Descritor de Papel |
 | Cientista de Dados/Eng. IA | – | [Executor Adicional](../roles/cientista-dados-eng-IA.md) | Descritor de Papel |
 | Especialista em Ética/Regulação | – | [Executor Adicional](../roles/especialista-etica-regulação.md) | Descritor de Papel |
-| Lista de Item da Explicabilidade | – | [Entrada Obrigatória] | Descritor de Artefato |
+| Lista de Item da Explicabilidade | – | Entrada Obrigatória | Descritor de Artefato |
 | Documento de Visão da Explicabilidade | – | Entrada Obrigatória | Descritor de Artefato |
 | Listas de Riscos Explicabilidade | – | Entrada Opcional | Descritor de Artefato |
 | Plano de Explicabilidade | – | Entrada Opcional | Descritor de Artefato |
-| Lista de Item da Explicabilidade | – | [Saída] | Descritor de Artefato |
+| Lista de Item da Explicabilidade | – | Saída| Descritor de Artefato |
 | Listas de Riscos Explicabilidade | – | Saída | Descritor de Artefato |
 | Plano de Explicabilidade | – | Saída | Descritor de Artefato |
+
 
 
 
