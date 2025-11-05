@@ -1,16 +1,25 @@
-# Padrão de Capacidade: [Nome da Fase]
+# Padrão de Capacidade: [Iniciar Projeto]
 
 ## Objetivo
-Descreva o propósito principal deste padrão de capacidade.  
-> Exemplo: Estabelecer a visão e a viabilidade do requisito de explicabilidade, alinhando expectativas dos stakeholders e identificando aspectos iniciais como transparência e compreensibilidade.
+> Estabelecer a visão e a viabilidade do requisito de explicabilidade, alinhando expectativas dos stakeholders e identificando aspectos iniciais como transparência, confiança e compreensibilidade.
 
 ---
 
 ## Descrição
-Contextualize este padrão dentro do processo OpenUP4ER, explicando quando e por que ele deve ser aplicado.  
-> Exemplo: Esta atividade ocorre no início da primeira iteração, quando o projeto inicia, e visa planejar como a explicabilidade será incorporada desde a concepção do sistema.
+> Esta atividade ocorre no começo da primeira iteração, quando o projeto inicia. A meta desta atividade é estabelecer a visão e o plano de projeto em um alto nível de generalidade, considerando apenas o requisito não funcional de explicabilidade. O objetivo é considerar a Explainaibility by Design (EbD), incorporando o requisito de explicabilidade como princípio estruturante.
+
+As pessoas, que atuam nos papéis envolvidos neste momento, colaboram para executar esta atividade:
+
+Os papéis de [Engenheiro de Requisitos](../roles/engenheiro-requisitos.md) e [Stakeholders](../roles/stakeholders) trabalham juntos para definir a visão de explicabilidade do projeto, capturando as necessidades específicas, como  transparência, confiança e compreensibilidade do sistema. Essas necessidades são refinadas até que se obtenha um acordo sobre o escopo do requisito de explicabilidade no projeto.
+
+O [Gerente de Projeto](../role;gerente-projetos) (colaborando e buscando concordância com a equipe de projeto e os Stakeholders) propõe um plano de projeto de alto nível do requisito de explicabilidade, que inclui os marcos para as quatro fases e iterações necessárias para garantir sua definição e evolução. 
 
 ---
+## Estrutura de Decomposição
+> Para ver os elementos detalhados desta fase (tarefas, papéis e artefatos relacionados), consulte:
+
+**[Decomposição da Fase de Concepção](concepcao-decomposicao.md)**  
+
 
 ## Papéis Envolvidos
 Liste os papéis responsáveis e colaboradores neste padrão.
