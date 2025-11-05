@@ -22,8 +22,6 @@ O [Gerente de Projeto](../role;gerente-projetos) (colaborando e buscando concord
 
 
 ## Papéis Envolvidos
-Liste os papéis responsáveis e colaboradores neste padrão.
-> Exemplo:
 - Engenheiro de Requisitos  
 - Arquiteto de Software  
 - Especialista em Explicabilidade  
