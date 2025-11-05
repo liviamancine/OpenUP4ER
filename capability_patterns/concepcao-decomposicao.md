@@ -1,7 +1,7 @@
 # Decomposição da Fase de Concepção – OpenUP4ER
 
 | **Elemento de Decomposição**  | **Índice** | **Informações do Template** | **Tipo** |
-|-------------------------------|-------------|-------------|-------------------|-----------------------------|-----------|
+|-------------------------------|-------------|----------------------------|----------|
 | **Definir a Visão da Explicabilidade** | 1 | – | Descritor da Tarefa |
 | Engenheiro de Requisitos | – | [Executor Principal](../roles/engenheiro-requisitos.md) | Descritor de Papel |
 | Arquiteto de Software | – | [Executor Adicional](../roles/arquiteto.md) | Descritor de Papel |
@@ -29,4 +29,5 @@
 | Lista de Item da Explicabilidade | – | [Saída] | Descritor de Artefato |
 | Listas de Riscos Explicabilidade | – | Saída | Descritor de Artefato |
 | Plano de Explicabilidade | – | Saída | Descritor de Artefato |
+
 
