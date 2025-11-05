@@ -14,7 +14,6 @@
 | Glossário de Termos da Explicabilidade| – | Saída | Descritor de Artefato |
 | Matriz SWOT da Explicabilidade | – | Saída | Descritor de Artefato |
 | Documento de Visão da Explicabilidade | – | Saída | Descritor de Artefato |
-
 | **Planejar a Explicabilidade** | 2 | – | Descritor da Tarefa |
 | Engenheiro de Requisitos | – | [Executor Principal](../roles/engenheiro-requisitos.md) | Descritor de Papel |
 | Arquiteto de Software | – | [Executor Adicional](../roles/arquiteto.md) | Descritor de Papel |
@@ -29,5 +28,6 @@
 | Lista de Item da Explicabilidade | – | [Saída] | Descritor de Artefato |
 | Listas de Riscos Explicabilidade | – | Saída | Descritor de Artefato |
 | Plano de Explicabilidade | – | Saída | Descritor de Artefato |
+
 
 
