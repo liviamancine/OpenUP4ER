@@ -1,0 +1,90 @@
+# Padrão de Capacidade: [Iniciar Projeto]
+
+## Objetivo
+> Estabelecer a visão e a viabilidade do requisito de explicabilidade, alinhando expectativas dos stakeholders e identificando aspectos iniciais como transparência, confiança e compreensibilidade.
+
+---
+
+## Descrição
+> Esta atividade ocorre no começo da primeira iteração, quando o projeto inicia. A meta desta atividade é estabelecer a visão e o plano de projeto em um alto nível de generalidade, considerando apenas o requisito não funcional de explicabilidade. O objetivo é considerar a Explainaibility by Design (EbD), incorporando o requisito de explicabilidade como princípio estruturante.
+
+As pessoas, que atuam nos papéis envolvidos neste momento, colaboram para executar esta atividade:
+
+Os papéis de [Engenheiro de Requisitos](../roles/engenheiro-requisitos.md) e [Stakeholders](../roles/stakeholders) trabalham juntos para definir a visão de explicabilidade do projeto, capturando as necessidades específicas, como  transparência, confiança e compreensibilidade do sistema. Essas necessidades são refinadas até que se obtenha um acordo sobre o escopo do requisito de explicabilidade no projeto.
+
+O [Gerente de Projeto](../role;gerente-projetos) (colaborando e buscando concordância com a equipe de projeto e os Stakeholders) propõe um plano de projeto de alto nível do requisito de explicabilidade, que inclui os marcos para as quatro fases e iterações necessárias para garantir sua definição e evolução. 
+
+---
+## Decomposição do Trabalho
+> Para ver os elementos detalhados desta fase (tarefas, papéis e artefatos relacionados), consulte:
+
+**[Decomposição de Trabalho](concepcao-decomposicao.md)**  
+
+
+## Papéis Envolvidos
+- [Engenheiro de Requisitos](../roles/engenheiro-requisitos.md)
+- [Arquiteto de Software](../roles/arquiteto-software.md)  
+- [Stakeholders](..roles/stakeholders.md)
+- [Gerente de Projetos](..roles/gerente-projetos.md)
+- [Cientista de Dados/Eng. IA](..roles/cientista-dados-eng-IA)
+- [Especialista em Ética e Regulação](..roles/especialista-etica-regulacao)
+
+  > Para ver os elementos detalhados desta fase (tarefas, papéis e artefatos relacionados), consulte:
+
+**[Decomposição da Equipe](alocacao-equipe-concepcao.md)**  
+
+---
+
+## Entradas (Work Products de Entrada)
+Liste os artefatos, informações ou documentos necessários para iniciar este padrão.
+> Exemplo:
+- Lista de Itens de Trabalho  
+- Diretrizes Organizacionais  
+- Normas Éticas e Legais (LGPD, PL 2338/2023)  
+- Dados sobre o sistema de IA ou contexto de uso  
+
+---
+
+## Saídas (Work Products de Saída)
+Liste os artefatos resultantes da execução deste padrão.  
+> Exemplo:
+- Documento de Visão da Explicabilidade  
+- Glossário de Termos de Explicabilidade  
+- Matriz SWOT de Viabilidade  
+- Backlog Inicial de Aspectos de Explicabilidade  
+
+---
+
+## Tarefas Relacionadas
+Liste as tarefas que compõem este padrão, preferencialmente com links para os arquivos `.md` correspondentes na pasta `tasks/`.
+> Exemplo:
+- [Identificar Stakeholders da Explicabilidade](../tasks/identificar-stakeholders-explicabilidade.md)  
+- [Definir a Visão da Explicabilidade](../tasks/definir-visao-explicabilidade.md)  
+- [Capturar Vocabulário Comum](../tasks/capturar-vocabulario-explicabilidade.md)  
+
+---
+
+## Guias e Templates
+Liste os materiais de apoio e modelos usados neste padrão (com links para `guidances/`).  
+> Exemplo:
+- [Template – Documento de Visão da Explicabilidade](../guidances/template-documento-visao.md)  
+- [Guia – Explainability by Design](../guidances/guia-explainability-by-design.md)  
+- [Checklist – Aspectos de Explicabilidade](../guidances/checklist-aspectos-explicabilidade.md)
+
+---
+
+## Relação com Outras Fases do OpenUP4ER
+Descreva como este padrão se conecta com as fases anteriores e posteriores.  
+> Exemplo:
+- **Entrada de:** Planejamento do Projeto  
+- **Fornece Saída para:** Elicitação da Explicabilidade  
+
+---
+
+## Notas e Considerações
+Use este espaço para observações adicionais, boas práticas ou restrições específicas.  
+> Exemplo: A explicabilidade deve ser considerada um requisito não funcional crítico, devendo ser rastreável até a entrega final do sistema.
+
+---
+
+🧩 **OpenUP4ER — Framework de Engenharia de Requisitos para Explicabilidade em Sistemas de IA**
