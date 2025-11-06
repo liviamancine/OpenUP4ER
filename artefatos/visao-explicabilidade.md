@@ -38,7 +38,7 @@ Serve como entrada para o processo de aprovação do projeto em relação ao req
   - [Planejar a Iteração]
     
 - **Saída de:**  
-  - [Ex: Definir a Visão](../tarefas/definir-visao.md)
+  - [Definir a Visão](../tarefas/definir-visao.md)
 
 ---
 
@@ -50,7 +50,7 @@ Este artefato é escrito a partir da perspectiva dos clientes e usuários, focan
 ---
 
 ## Ilustrações / Templates
-- [Visão da Explicabilidade](../templates/visao.md)
+- [Visão da Explicabilidade](../tarefas/visao.md)
 - [Exemplo de Preenchimento](../examples/exemplo-visao.md)
 
 ---
