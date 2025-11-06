@@ -1,22 +1,26 @@
 # TEMPLATE DE ARTEFATO (OpenUP4ER)
 
 **Descrição:**  
-[Breve explicação do propósito do artefato — ex: “Este artefato contém a definição da visão dos stakeholders a respeito do produto a ser desenvolvido, especificada em termos das principais características e necessidades dos stakeholders.”]
+Este artefato contém a definição da **visão dos Stakeholders a respeito do requisito de explicabilidade** no sistema de IA a ser desenvolvido.  
+Ele especifica, em termos das principais necessidades e expectativas dos Stakeholders, como a explicabilidade deve estar presente no produto.
 
-**Domínios:** [Ex: Requisitos, Arquitetura, Testes]  
-**Tipo de Produto de Trabalho:** [Ex: Conceito, Documento, Modelo, Plano]  
+A Visão da Explicabilidade serve como base para orientar o projeto e garantir que as decisões de design e desenvolvimento considerem a explicabilidade **como um requisito não funcional essencial**, integrado desde as etapas iniciais do processo.
+
+**Domínios:** [Requisitos](dominio)  
+**Tipo de Produto de Trabalho:** [Conceito](tipo-produto-trabalho) 
 
 ---
 
 ## Objetivo
-[Descreva a função principal do artefato — ex: “Fornecer uma base de alto nível para os requisitos técnicos detalhados, capturando as restrições de design e os requisitos de alto nível que expressam a essência do sistema.”]
+Este artefato fornece uma base de alto nível, às vezes contratual, para os requisitos de explicabilidade mais detalhados que são visíveis para os Stakeholders. Captura a essência da explicabilidade no sistema, descrevendo as restrições, diretrizes e requisitos de alto nível que dão ao leitor uma visão geral de como a explicabilidade deve ser tratada no projeto.
 
+Serve como entrada para o processo de aprovação do projeto em relação ao requisito de explicabilidade, comunica os "o que e por quê" fundamentais para garantir transparência, confiança e compreensibilidade, e fornece um plano no qual todas as decisões futuras sobre explicabilidade devem ser validadas.
 ---
 
 ## Relacionamentos
 
 **Papéis**  
-- **Responsável:** [Ex: Engenheiro de Requisitos]  
+- **Responsável:** [Engenheiro de Requisitos](../role/engenheiro-requisitos)  
 - **Modificado por:** [Ex: Arquiteto de Software]  
 
 **Tarefas**  
@@ -56,5 +60,5 @@
 - [Qualidades de Bons Requisitos](../checklists/qualidades-bons-requisitos.md)
 
 **Referências:**  
-- [Link para o OpenUP Original](https://www.utm.mx/~caff/doc/OpenUPWeb/openup/guidances/guidelines/guideline_123456.html)
+- [Link para o OpenUP Original](file:///C:/Users/Livia%20Mancine/Downloads/OpenUP/Publish/openup/workproducts/vision_2E71B03C.html)
 
