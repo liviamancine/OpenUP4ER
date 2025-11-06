@@ -50,7 +50,7 @@ Este artefato é escrito a partir da perspectiva dos clientes e usuários, focan
 ---
 
 ## Ilustrações / Templates
-- [Visão da Explicabilidade](../tarefas/visao.md)
+- [Visão da Explicabilidade](../tarefas/definir-visao.md)
 - [Exemplo de Preenchimento](../examples/exemplo-visao.md)
 
 ---
