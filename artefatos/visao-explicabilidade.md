@@ -12,9 +12,11 @@ A Visão da Explicabilidade serve como base para orientar o projeto e garantir q
 ---
 
 ## Objetivo
-Este artefato fornece uma base de alto nível, às vezes contratual, para os requisitos de explicabilidade mais detalhados que são visíveis para os Stakeholders. Captura a essência da explicabilidade no sistema, descrevendo as restrições, diretrizes e requisitos de alto nível que dão ao leitor uma visão geral de como a explicabilidade deve ser tratada no projeto.
-
+Este artefato fornece uma base de alto nível, às vezes contratual, para os requisitos de explicabilidade mais detalhados que são visíveis para os Stakeholders. Captura a essência da explicabilidade no sistema, descrevendo as restrições, diretrizes e requisitos de alto nível que dão ao leitor uma visão geral de como a explicabilidade deve ser tratada no projeto. 
 Serve como entrada para o processo de aprovação do projeto em relação ao requisito de explicabilidade, comunica os "o que e por quê" fundamentais para garantir transparência, confiança e compreensibilidade, e fornece um plano no qual todas as decisões futuras sobre explicabilidade devem ser validadas.
+
+
+
 ---
 
 ## Relacionamentos
@@ -48,7 +50,7 @@ Este artefato é escrito a partir da perspectiva dos clientes e usuários, focan
 ---
 
 ## Ilustrações / Templates
-- [Nome do Template](../templates/visao.md)
+- [Visão da Explicabilidade](../templates/visao.md)
 - [Exemplo de Preenchimento](../examples/exemplo-visao.md)
 
 ---
