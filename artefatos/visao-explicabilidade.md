@@ -20,13 +20,21 @@ Serve como entrada para o processo de aprovação do projeto em relação ao req
 ## Relacionamentos
 
 **Papéis**  
-- **Responsável:** [Engenheiro de Requisitos](../role/engenheiro-requisitos)  
-- **Modificado por:** [Ex: Arquiteto de Software]  
+- **Responsável:** [Engenheiro de Requisitos](../papeis/engenheiro-requisitos)  
+- **Modificado por:** [Engenheiro de Requisitos](../papeis/engenheiro-requisitos)
 
 **Tarefas**  
 - **Entrada para:**  
-  - [Ex: Detalhar os Requisitos](../tasks/detalhar-requisitos.md)  
-  - [Ex: Planejar o Projeto](../tasks/planejar-projeto.md)  
+  - [Descrever a Arquitetura]
+  - [Detalhar os Requisitos]
+  - [Encontrar e Descrever os Requisitos]
+  - [Planejar o Projeto]
+  - [Refinar a Arquitetura]
+
+  - [Avaliar os Resultados]
+  - [Definir a Visão]
+  - [Planejar a Iteração]
+    
 - **Saída de:**  
   - [Ex: Definir a Visão](../tasks/definir-visao.md)
 
