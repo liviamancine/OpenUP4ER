@@ -36,36 +36,37 @@ Serve como entrada para o processo de aprovação do projeto em relação ao req
   - [Planejar a Iteração]
     
 - **Saída de:**  
-  - [Ex: Definir a Visão](../tasks/definir-visao.md)
+  - [Ex: Definir a Visão](../tarefas/definir-visao.md)
 
 ---
 
 ## Descrição Principal
-[Descreva o conteúdo do artefato, seu escopo e uso no processo. Ex:  
-“Este artefato fornece uma visão completa do sistema de software e dá suporte ao contrato entre cliente e equipe de desenvolvimento. Ele é escrito a partir da perspectiva dos stakeholders e deve incluir as características essenciais e os níveis aceitáveis de qualidade.”]
+Este artefato fornece uma visão completa do requisito de explicabilidade no sistema de software em desenvolvimento e dá suporte ao contrato entre o cliente e a organização de desenvolvimento. Cada projeto necessita de uma fonte para capturar as expectativas dos Stakeholders em relação à transparência, confiança e compreensão.
+
+Este artefato é escrito a partir da perspectiva dos clientes e usuários, focando nos aspectos essenciais de explicabilidade e nos níveis aceitáveis de qualidade relacionados a esse requisito. O artefato deve incluir uma descrição de quais aspectos de explicabilidade serão tratados no sistema, bem como aqueles considerados, mas não incluídos, justificando suas exclusões.
 
 ---
 
 ## Ilustrações / Templates
-- [Nome do Template](../templates/template-nome.md)
-- [Exemplo de Preenchimento](../examples/exemplo-nome.md)
+- [Nome do Template](../templates/visao.md)
+- [Exemplo de Preenchimento](../examples/exemplo-visao.md)
 
 ---
 
 ## Adaptação
 
 **Impacto de não ter:**  
-[Ex: “A ausência deste artefato aumenta o risco de desalinhamento entre stakeholders e equipe de desenvolvimento.”]
+Se este artefato não for usado, existira um alto risco de que os Stakeholders e a equipe de desenvolvimento tenham diferentes expectativas. Isto pode conduzir ao cancelamento do projeto.
 
 **Opções de Representação:**  
-[Ex: “Customize este artefato conforme o contexto do projeto. Recomenda-se mantê-lo resumido e fácil de ler.”]
+Customize este artefato para as necessidades do seu projeto. Normalmente é uma boa prática manter este artefato resumido de forma que você possa liberá-lo aos Stakeholders o mais rápido possível, e torna-lo fácil de ser lido e compreendido pelos Stakeholders. Você pode conseguir isto, incluindo somente as mais importantes características e solicitações dos Stakeholders evitando os detalhes dos requisitos. Você pode descrever os detalhes em outros artefatos para requisitos.
 
 ---
 
 ## Informações Adicionais
 
 **Listas de Verificação:**  
-- [Qualidades de Bons Requisitos](../checklists/qualidades-bons-requisitos.md)
+- 
 
 **Referências:**  
 - [Link para o OpenUP Original](file:///C:/Users/Livia%20Mancine/Downloads/OpenUP/Publish/openup/workproducts/vision_2E71B03C.html)
