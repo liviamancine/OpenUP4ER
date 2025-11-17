@@ -3,7 +3,7 @@ name: Build DRE Artifact
 on:
   push:
     paths:
-      - "tarefas/**"
+      - "tarefas/definir-visao.md"
       - ".github/workflows/build-dre.yml"
   workflow_dispatch:
 
@@ -15,32 +15,25 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate DRE
+      - name: Build DRE with existing files only
         run: |
           mkdir -p artefatos
-          echo "# Documento de Referência de Explicabilidade (DRE)" > artefatos/DRE.md
+          echo "# Documento de Referência de Especificação (DRE)" > artefatos/DRE.md
           echo "" >> artefatos/DRE.md
 
-          echo "## 1. Documento de Visão" >> artefatos/DRE.md
+          echo "## 1. Documento: Definição da Visão" >> artefatos/DRE.md
           echo "" >> artefatos/DRE.md
           cat tarefas/definir-visao.md >> artefatos/DRE.md
-          echo "" >> artefatos/DRE.md
-
-          echo "## 2. Documento de Requisitos" >> artefatos/DRE.md
-          echo "" >> artefatos/DRE.md
-          cat tarefas/documento-requisitos.md >> artefatos/DRE.md
-          echo "" >> artefatos/DRE.md
-
-          echo "## 3. Análise de Requisitos" >> artefatos/DRE.md
-          echo "" >> artefatos/DRE.md
-          cat tarefas/analise-requisitos.md >> artefatos/DRE.md
           echo "" >> artefatos/DRE.md
 
       - name: Commit and push updated DRE
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
+
           git add artefatos/DRE.md
-          git commit -m "Atualiza DRE automaticamente" || echo "Nenhuma alteração para commitar"
+          git commit -m "Atualiza DRE automaticamente com definir-visao.md" || echo "Nenhuma alteração para commitar"
           git push
 
+
+         
