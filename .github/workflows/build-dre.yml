@@ -11,11 +11,14 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write   # 👉 PERMISSÃO DE ESCRITA AQUI
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Build DRE with existing files only
+      - name: Build DRE with existing file
         run: |
           mkdir -p artefatos
           echo "# Documento de Referência de Especificação (DRE)" > artefatos/DRE.md
@@ -32,8 +35,5 @@ jobs:
           git config --local user.name "GitHub Actions"
 
           git add artefatos/DRE.md
-          git commit -m "Atualiza DRE automaticamente com definir-visao.md" || echo "Nenhuma alteração para commitar"
-          git push
-
-
-         
+          git commit -m "Atualiza DRE automaticamente com definir-visao.md" || echo "Nenhuma alteração"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
