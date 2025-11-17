@@ -2,7 +2,7 @@
 # Fase de Concepção (OpenUP4ER)
 
 
-A fase de **Concepção** tem como objetivo alinhar stakeholders, estabelecer a [visão](visao-explicabilidade.md) do sistema e identificar riscos e requisitos iniciais para guiar as próximas iterações.
+A fase de **Concepção** tem como objetivo alinhar stakeholders, estabelecer a [visão da explicabilidade](visao-explicabilidade.md) do sistema e identificar riscos e requisitos iniciais para guiar as próximas iterações.
 
 
 ---
