@@ -9,11 +9,9 @@ A fase de **Concepção** tem como objetivo alinhar stakeholders, estabelecer a 
 
 ## Relacionamentos
 
-| **Elementos Relacionado**   | **Ciclo de Vida de Projeto** 
-                              | **Ciclo de Vida do OpenUP4ER** 
-                              | **Iteração de Concepção [1..n]**
-                              | **Marco de Fase** 
-|---------------------------|--------------------------|
+| **Elementos Relacionados** |  |
+|----------------------------|--|
+|                            | • [Ciclo de Vida de Projeto](#) <br> • [Ciclo de Vida do OpenUP](#) <br> • [Iteração de Concepção \[1..n\]](#) <br> • [Marco de Fase](#) |
 
 
 ---
