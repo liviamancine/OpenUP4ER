@@ -16,27 +16,27 @@ A fase de **Concepção** tem como objetivo alinhar stakeholders, estabelecer a 
 
 ---
 
-## 📘 Descrição Principal
+## Descrição Principal
 
 A finalidade desta fase é garantir consenso entre os **stakeholders** sobre os **objetivos de explicabilidade** e definir estratégias iniciais para alcançá-los.
 
-### 🎯 Objetivos
+### Objetivos
 
 1. **Definir a visão de explicabilidade**  
    Estabelecer o que significa “explicável” no contexto do sistema e das partes interessadas.
 
 2. **Identificar requisitos críticos de explicabilidade**  
-   Mapear necessidades relacionadas à transparência, interpretabilidade e rastreabilidade.
+   Mapear necessidades relacionadas à transparência, confiança e compreensão.
 
 3. **Propor soluções candidatas**  
-   Avaliar abordagens de explicabilidade e arquiteturas adequadas (ex.: modelos explicáveis vs. pós-hoc).
+   Avaliar abordagens de explicabilidade e arquiteturas adequadas (ex.: modelos explicáveis vs. pós-hoc - DÚVIDA).
 
 4. **Analisar riscos e custos associados**  
    Identificar riscos técnicos e éticos relacionados à ausência de explicabilidade.
 
 ---
 
-## ⚙️ Principais Considerações
+## Principais Considerações
 
 A fase de Concepção pode incluir múltiplas iterações quando:
 
@@ -47,21 +47,19 @@ A fase de Concepção pode incluir múltiplas iterações quando:
 
 ---
 
-## 📚 Informações Adicionais
+## Informações Adicionais
 
-| **Conceito** | **Link / Descrição** |
-|---------------|----------------------|
-| **Ciclo de Vida do Projeto** | [Ver Ciclo de Vida de Projeto](../conceitos/ciclo-vida-projeto.md) |
-| **Colaborar para Alinhar Interesses** | [Colaborar para alinhar os interesses e compartilhar entendimento](../guidances/colaborar-alinhamento.md) |
-| **Equilibrar Prioridades Concorrentes** | [Equilibrar prioridades concorrentes para maximizar o benefício aos stakeholders](../guidances/equilibrar-prioridades.md) |
-| **Iteração** | [Ver Iteração no OpenUP4ER](../conceitos/iteracao.md) |
-
+| **Conceito** | VERIFICAR O QUE É NECESSÁRIO|
+|--------------|----------------------|
+|              | • [Ciclo de Vida do Projeto] (#) <br> • [Colaborar para Alinhar Interesses] (#) <br> •[Equilibrar Prioridades Concorrentes] (#) <br> • [Iteração] |
+                  
 ---
 
-> 💡 **Dica:** Este documento é parte do *OpenUP4ER* — uma instanciação do OpenUP voltada à Engenharia de Requisitos para sistemas baseados em Aprendizado de Máquina com foco na Explicabilidade.
+>  **Dica:** Este documento é parte do *OpenUP4ER* — uma instanciação do OpenUP voltada à Engenharia de Requisitos para sistemas baseados em Aprendizado de Máquina com foco na Explicabilidade.
 
 ---
-
+## Referência
+file:///C:/Users/Livia%20Mancine/Downloads/OpenUP/Publish/openup/guidances/concepts/inception_phase_C4456871.html
 
 
 
