@@ -21,8 +21,6 @@ Uma solução bem-sucedida deve fornecer [tipo de explicações desejadas: técn
 |------------------------------|---------------------------------------------------------------------------------------------------|
 | **O problema da**            | falta de explicabilidade em sistemas de aprendizado de máquina                                    |
 | **afeta**                    | Stakeholders impactados: clientes, usuários finais, reguladores, administradores                  |
-| **cujo o impacto é**         | descrição das consequências: falta de confiança, barreiras legais, dificuldade de adoção, 
-                                 dificuldade de validação e retrabalho                                                             |
-| **uma solução bem sucedida 
-seria**                        | benefícios esperados: transparência, auditoria, aceitação do sistema |
+| **cujo o impacto é**         | descrição das consequências: falta de confiança, barreiras legais, dificuldade de adoção, dificuldade de validação e retrabalho|
+| **uma solução bem sucedida seria**| benefícios esperados: transparência, auditoria, aceitação do sistema |
 
