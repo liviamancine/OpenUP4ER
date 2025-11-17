@@ -1,0 +1,54 @@
+name: Build DRE Artifact
+
+on:
+  push:
+    paths:
+      - "artefatos/documento-visao.md"
+      - "artefatos/documento-requisitos.md"
+      - "artefatos/analise-requisitos.md"
+      - ".github/workflows/build-dre.yml"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Create roles folder and files
+        run: |
+          mkdir -p roles
+          echo "# Definir Visão" > roles/definir-visao.md
+          echo "# Identificar Stakeholders" > roles/identificar-stakeholders.md
+          echo "# Elicitar Requisitos" > roles/eliciar-requisitos.md
+
+      - name: Concatenate artifact files
+        run: |
+          echo "# Documento de Referência de Especificação (DRE)" > artefatos/DRE.md
+          echo "" >> artefatos/DRE.md
+
+          echo "## 1. Documento de Visão" >> artefatos/DRE.md
+          echo "" >> artefatos/DRE.md
+          cat artefatos/documento-visao.md >> artefatos/DRE.md
+          echo "" >> artefatos/DRE.md
+
+          echo "## 2. Documento de Requisitos" >> artefatos/DRE.md
+          echo "" >> artefatos/DRE.md
+          cat artefatos/documento-requisitos.md >> artefatos/DRE.md
+          echo "" >> artefatos/DRE.md
+
+          echo "## 3. Análise de Requisitos" >> artefatos/DRE.md
+          echo "" >> artefatos/DRE.md
+          cat artefatos/analise-requisitos.md >> artefatos/DRE.md
+          echo ""
+
+      - name: Commit and push updated DRE
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+
+          git add .
+          git commit -m "Cria pasta roles e arquivos automaticamente"
+          git push
