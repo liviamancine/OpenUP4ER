@@ -37,3 +37,25 @@ Apresente uma declaração que resuma o problema que este projeto visa resolver.
 | **Que** | O que o produto faz, seu benefício principal. |
 | **Unlike** | *[principal alternativa concorrente]* |
 | **Our product** | *[principal diferencial do produto]* |
+
+Uma declaração de posicionamento comunica a intenção do produto e sua importância para todos os envolvidos no projeto.
+
+## 3. Descrição dos stakeholders que necessitam de explicabilidade
+
+###3.1 Resumo dos stakeholders 
+
+| Elemento                     | Descrição                                      | Responsabilidade                                        |
+|------------------------------|------------------------------------------------|---------------------------------------------------------|
+| **Cliente**                  | representa a organização que financia o projeto| Garante que os requisitos de explicabilidade estejam alinhados com metas de negócio|
+| **Usuário final**            | interage diretamente com o sistema             | Compreender e confiar nas explicações fornecidas                                   |
+| **Regulador**                | Órgão de auditoria ou legislação               | Garantir conformidade legal e ética |
+
+
+### 3.2 Ambiente do usuário
+Detalhar o contexto de uso: onde os usuários interagem com explicações, necessidades de interfaces, restrições regulatórias, plataformas existentes.
+
+– Plataformas utilizadas (web, mobile, desktop).
+– Restrições (regulatórias, de tempo real, acessibilidade).
+– Integração necessária com sistemas existentes.
+
+
