@@ -6,7 +6,7 @@ A fase de Concepção tem como objetivo estabelecer a Visão da Explicabilidade,
 O principal artefato produzido nesta fase é o [Documento de Requisitos de Explicabilidade (DRE)] (Documento de Requisito de Explicabilidade).
 O DRE é iniciado nesta fase, contendo:
 
-• [a visão inicial da explicabilidade] (#) <br>
+• [a visão inicial da explicabilidade](#) <br>
 
 • [os stakeholders que necessitam explicações](#) <br>
 
