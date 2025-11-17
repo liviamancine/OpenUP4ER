@@ -7,6 +7,7 @@
 
 ## 1. Introdução
 Este documento apresenta uma visão geral do requisito de explicabilidade.
+
 Sugestão:
 O problema da falta de explicabilidade em sistemas de Aprendizado de Máquina aplicados a [tarefa/objetivo do sistema] afeta diretamente [categoria de usuários impactados], pois gera [dificuldades ou limitações observadas, como falta de compreensão, perda de confiança, necessidade de transparência].
 
