@@ -11,6 +11,7 @@ Sugestão:
 O problema da falta de explicabilidade em sistemas de Aprendizado de Máquina aplicados a [tarefa/objetivo do sistema] afeta diretamente [categoria de usuários impactados], pois gera [dificuldades ou limitações observadas, como falta de compreensão, perda de confiança, necessidade de transparência].
 
 Uma solução bem-sucedida deve fornecer [tipo de explicações desejadas: técnicas, claras, rastreáveis, contextualizadas, adaptadas ao usuário], permitindo que [usuário ou papel] consiga [ação esperada: entender os critérios utilizados, validar decisões, aumentar confiança, reduzir retrabalho, cumprir normas regulatórias].
+
 ---
 
 ## 2. Posicionamento
@@ -20,8 +21,8 @@ Uma solução bem-sucedida deve fornecer [tipo de explicações desejadas: técn
 |------------------------------|---------------------------------------------------------------------------------------------------|
 | **O problema da**            | falta de explicabilidade em sistemas de aprendizado de máquina                                    |
 | **afeta**                    | Stakeholders impactados: clientes, usuários finais, reguladores, administradores                  |
-| **cujo o impacto é**         | descrição das consequências: falta de confiança, barreiras legais, dificuldade de adoção, <br> 
+| **cujo o impacto é**         | descrição das consequências: falta de confiança, barreiras legais, dificuldade de adoção, 
                                  dificuldade de validação e retrabalho                                                             |
-| **uma solução bem sucedida<br> 
+| **uma solução bem sucedida 
 seria**                        | benefícios esperados: transparência, auditoria, aceitação do sistema |
 
