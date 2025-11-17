@@ -31,17 +31,17 @@ jobs:
 
           echo "## 1. Documento de Visão" >> artefatos/DRE.md
           echo "" >> artefatos/DRE.md
-          cat artefatos/documento-visao.md >> artefatos/DRE.md
+          cat tarefas/definir-visao.md >> artefatos/DRE.md
           echo "" >> artefatos/DRE.md
 
           echo "## 2. Documento de Requisitos" >> artefatos/DRE.md
           echo "" >> artefatos/DRE.md
-          cat artefatos/documento-requisitos.md >> artefatos/DRE.md
+          cat tarefas/documento-requisitos.md >> artefatos/DRE.md
           echo "" >> artefatos/DRE.md
 
           echo "## 3. Análise de Requisitos" >> artefatos/DRE.md
           echo "" >> artefatos/DRE.md
-          cat artefatos/analise-requisitos.md >> artefatos/DRE.md
+          cat tarefas/analise-requisitos.md >> artefatos/DRE.md
           echo ""
 
       - name: Commit and push updated DRE
