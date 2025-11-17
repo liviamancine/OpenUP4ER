@@ -1,7 +1,7 @@
 # TEMPLATE DE ARTEFATO (OpenUP4ER)
 
 **Descrição:**  
-Este artefato contém a definição da **visão dos Stakeholders a respeito do requisito de explicabilidade** no sistema de IA a ser desenvolvido.  
+Este artefato contém a definição da **visão dos Stakeholders a respeito do requisito de explicabilidade** no sistema de AM a ser desenvolvido.  
 Ele especifica, em termos das principais necessidades e expectativas dos Stakeholders, como a explicabilidade deve estar presente no produto.
 
 A Visão da Explicabilidade serve como base para orientar o projeto e garantir que as decisões de design e desenvolvimento considerem a explicabilidade **como um requisito não funcional essencial**, integrado desde as etapas iniciais do processo.
@@ -38,7 +38,7 @@ Serve como entrada para o processo de aprovação do projeto em relação ao req
   - [Planejar a Iteração]
     
 - **Saída de:**  
-  - [Definir a Visão](../tarefas/definir-visao.md)
+  - [Definir a Visão](DRE.md)
 
 ---
 
@@ -58,7 +58,7 @@ Este artefato é escrito a partir da perspectiva dos clientes e usuários, focan
 ## Adaptação
 
 **Impacto de não ter:**  
-Se este artefato não for usado, existira um alto risco de que os Stakeholders e a equipe de desenvolvimento tenham diferentes expectativas. Isto pode conduzir ao cancelamento do projeto.
+Se este artefato não for usado, existirá um alto risco de que os Stakeholders e a equipe de desenvolvimento tenham diferentes expectativas. Isto pode conduzir ao cancelamento do projeto.
 
 **Opções de Representação:**  
 Customize este artefato para as necessidades do seu projeto. Normalmente é uma boa prática manter este artefato resumido de forma que você possa liberá-lo aos Stakeholders o mais rápido possível, e torna-lo fácil de ser lido e compreendido pelos Stakeholders. Você pode conseguir isto, incluindo somente as mais importantes características e solicitações dos Stakeholders evitando os detalhes dos requisitos. Você pode descrever os detalhes em outros artefatos para requisitos.
