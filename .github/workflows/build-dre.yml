@@ -3,9 +3,7 @@ name: Build DRE Artifact
 on:
   push:
     paths:
-      - "artefatos/documento-visao.md"
-      - "artefatos/documento-requisitos.md"
-      - "artefatos/analise-requisitos.md"
+      - "tarefas/**"
       - ".github/workflows/build-dre.yml"
   workflow_dispatch:
 
@@ -17,21 +15,15 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Create roles folder and files
+      - name: Generate DRE
         run: |
-          mkdir -p roles
-          echo "# Definir Visão" > roles/definir-visao.md
-          echo "# Identificar Stakeholders" > roles/identificar-stakeholders.md
-          echo "# Elicitar Requisitos" > roles/eliciar-requisitos.md
-
-      - name: Concatenate artifact files
-        run: |
+          mkdir -p artefatos
           echo "# Documento de Referência de Especificação (DRE)" > artefatos/DRE.md
           echo "" >> artefatos/DRE.md
 
           echo "## 1. Documento de Visão" >> artefatos/DRE.md
           echo "" >> artefatos/DRE.md
-          cat tarefas/definir-visao.md >> artefatos/DRE.md
+          cat tarefas/documento-visao.md >> artefatos/DRE.md
           echo "" >> artefatos/DRE.md
 
           echo "## 2. Documento de Requisitos" >> artefatos/DRE.md
@@ -42,13 +34,13 @@ jobs:
           echo "## 3. Análise de Requisitos" >> artefatos/DRE.md
           echo "" >> artefatos/DRE.md
           cat tarefas/analise-requisitos.md >> artefatos/DRE.md
-          echo ""
+          echo "" >> artefatos/DRE.md
 
       - name: Commit and push updated DRE
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
-
-          git add .
-          git commit -m "Cria pasta roles e arquivos automaticamente"
+          git add artefatos/DRE.md
+          git commit -m "Atualiza DRE automaticamente" || echo "Nenhuma alteração para commitar"
           git push
+
