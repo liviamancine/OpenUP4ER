@@ -18,12 +18,12 @@ jobs:
       - name: Generate DRE
         run: |
           mkdir -p artefatos
-          echo "# Documento de Referência de Especificação (DRE)" > artefatos/DRE.md
+          echo "# Documento de Referência de Explicabilidade (DRE)" > artefatos/DRE.md
           echo "" >> artefatos/DRE.md
 
           echo "## 1. Documento de Visão" >> artefatos/DRE.md
           echo "" >> artefatos/DRE.md
-          cat tarefas/documento-visao.md >> artefatos/DRE.md
+          cat tarefas/definir-visao.md >> artefatos/DRE.md
           echo "" >> artefatos/DRE.md
 
           echo "## 2. Documento de Requisitos" >> artefatos/DRE.md
