@@ -1,8 +1,24 @@
 
 # Fase de Concepção (OpenUP4ER)
 
+A fase de Concepção tem como objetivo estabelecer a Visão da Explicabilidade, alinhar expectativas dos stakeholders e identificar requisitos iniciais, riscos e critérios de sucesso relacionados à explicação produzida pelo sistema de Aprendizado de Máquina.
 
-A fase de **Concepção** tem como objetivo alinhar stakeholders, estabelecer a [visão da explicabilidade](visao-explicabilidade.md) do sistema e identificar riscos e requisitos iniciais para guiar as próximas iterações.
+O principal artefato produzido nesta fase é o [Documento de Requisitos de Explicabilidade (DRE)] (Documento de Requisito de Explicabilidade).
+O DRE é iniciado nesta fase, contendo:
+
+• [a visão inicial da explicabilidade] (#) <br>
+
+• [os stakeholders que necessitam explicações](#) <br>
+
+• [o contexto de uso das explicações](#)<br>
+
+• [riscos associados (éticos, regulatórios, operacionais)](#) <br>
+
+• [critérios iniciais de qualidade das explicações](#) <br>
+
+Conforme o processo evolui, o [DRE] (Documento de Requisito de Explicabilidade) é continuamente atualizado a cada iteração e interação das fases seguintes (Elaboração (#), Construção e Transição), incorporando novos requisitos, refinamentos arquiteturais, decisões de projeto e resultados de testes de usabilidade (VALIDAR) e validação de explicabilidade.
+
+Esse processo incremental assegura que a explicabilidade seja tratada como um requisito não funcional essencial, integrado desde a concepção e evoluindo conforme o conhecimento sobre o sistema também evolui.
 
 
 ---
@@ -29,7 +45,7 @@ A finalidade desta fase é garantir consenso entre os **stakeholders** sobre os 
    Mapear necessidades relacionadas à transparência, confiança e compreensão.
 
 3. **Propor soluções candidatas**  
-   Avaliar abordagens de explicabilidade e arquiteturas adequadas (ex.: modelos explicáveis vs. pós-hoc - DÚVIDA).
+   Avaliar abordagens de explicabilidade e arquiteturas adequadas (ex.: modelos explicáveis vs. pós-hoc - VALIDAR).
 
 4. **Analisar riscos e custos associados**  
    Identificar riscos técnicos e éticos relacionados à ausência de explicabilidade.
@@ -58,13 +74,7 @@ A fase de Concepção pode incluir múltiplas iterações quando:
 >  **Dica:** Este documento é parte do *OpenUP4ER* — uma instanciação do OpenUP voltada à Engenharia de Requisitos para sistemas baseados em Aprendizado de Máquina com foco na Explicabilidade.
 
 ---
-## Referência
-file:///C:/Users/Livia%20Mancine/Downloads/OpenUP/Publish/openup/guidances/concepts/inception_phase_C4456871.html
 
-
-
-
-
-#Referência
+##Referência
 {file:///C:/Users/Livia%20Mancine/Downloads/OpenUP/Publish/openup/guidances/concepts/project_lifecycle_203F87.html}
 {file:///C:/Users/Livia%20Mancine/Downloads/OpenUP/Publish/openup/guidances/concepts/inception_phase_C4456871.html}
