@@ -38,7 +38,7 @@ Serve como entrada para o processo de aprovação do projeto em relação ao req
   - [Planejar a Iteração]
     
 - **Saída de:**  
-  - [Documento Visão da Explicabilidade](../tarefas/definir-visao.md)
+  - [Como definir Visão da Explicabilidade](#)
 
 ---
 
