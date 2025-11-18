@@ -16,7 +16,7 @@ O DRE é iniciado nesta fase, contendo:
 
 • [critérios iniciais de qualidade das explicações](#) <br>
 
-Conforme o processo evolui, o [DRE] (Documento de Requisito de Explicabilidade) é continuamente atualizado a cada iteração e interação das fases seguintes (Elaboração (#), Construção e Transição), incorporando novos requisitos, refinamentos arquiteturais, decisões de projeto e resultados de testes de usabilidade (VALIDAR) e validação de explicabilidade.
+Conforme o processo evolui, o [DRE](Documento de Requisito de Explicabilidade) é continuamente atualizado a cada iteração e interação das fases seguintes (Elaboração (#), Construção e Transição), incorporando novos requisitos, refinamentos arquiteturais, decisões de projeto e resultados de testes de usabilidade (VALIDAR) e validação de explicabilidade.
 
 Esse processo incremental assegura que a explicabilidade seja tratada como um requisito não funcional essencial, integrado desde a concepção e evoluindo conforme o conhecimento sobre o sistema também evolui.
 
