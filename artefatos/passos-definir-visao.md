@@ -30,35 +30,35 @@ A solução é proposta para abordar o problema de falta de confiança, transpar
 ## Passos
 1. Identificar os Stakeholders (foco: explicabilidade)
 
-O que fazer
+**O que fazer**
 - Mapear pessoas/grupos/perfis que precisam receber, entender ou auditar explicações (veja Papéis)[../papeis].
 - Para cada stakeholder, registrar: objetivos, que tipo de explicação precisa (local/global, técnico/resumido), nível de detalhe e canais (UI, relatório, API).
 
-Quem
+**Quem**
 - Engenheiro de Requisitos (líder) com apoio do Gerente de Projeto.
 
-Onde registrar
+**Onde registrar**
 [Documento de Visão de Explicabilidade](../tarefas/definir.visao.md) → seção 3.1 - Resumo dos stakeholders
 
-Perguntas úteis
+**Perguntas úteis**
 - Quem precisa entender as decisões do sistema? Por quê?
 - Que formato de explicação cada perfil prefere (texto resumido, relatório técnico, visualização)?
 - Com que frequência precisam das explicações?
 
 2. Adquirir consenso sobre o problema (não pule para soluções)
 
-O que fazer
+**O que fazer**
 - Conduzir workshops, entrevistas para definir qual é o problema de explicabilidade (p. ex. “não entendemos porque o modelo me fornece um resultado positivo”).
 - Trabalhar o “problema por trás do problema” — identificar consequências (confiança, retrabalho, não conformidade).
 
-Quem
+**Quem**
 - Engenheiro de Requisitos (facilitador), Stakeholders.
 
-Onde registrar
+**Onde registrar**
 - [Documento de Visão da Explicabilidade](../tarefas/definir.visao.md) → seção 4.1 Necessidades e Funcionalidades 
 - [Itens gerados para Lista de Itens de Trabalho](Verificar)
 
-Técnicas
+**Técnicas**
 -  [Guidaline: Técnica para obtenção de requisitos de explicabilidade](VERIFICAR)
 
 
