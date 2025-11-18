@@ -1,4 +1,4 @@
-# Documento de Referência de Especificação (DRE)
+# Documento de Referência de Explicabilidade (DRE)
 
 ## 1. Documento: Definição da Visão
 
