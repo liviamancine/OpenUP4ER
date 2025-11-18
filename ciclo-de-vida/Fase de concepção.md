@@ -9,7 +9,7 @@ O DRE é iniciado nesta fase, contendo:
 
 • [a visão inicial da explicabilidade](tarefas/definir-visão.md) <br>
 
-• [os stakeholders que necessitam explicações](papeis) <br>
+• [os stakeholders que necessitam explicações](../papeis) <br>
 
 • [o contexto de uso das explicações](tarefas/definir-visão.md)<br>
 
