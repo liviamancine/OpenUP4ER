@@ -42,7 +42,7 @@ Uma declaração de posicionamento comunica a intenção do produto e sua import
 
 ## 3. Descrição dos stakeholders que necessitam de explicabilidade
 
-###3.1 Resumo dos stakeholders 
+### 3.1 Resumo dos stakeholders 
 
 | Elemento                     | Descrição                                      | Responsabilidade                                        |
 |------------------------------|------------------------------------------------|---------------------------------------------------------|
