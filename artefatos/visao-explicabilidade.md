@@ -22,8 +22,8 @@ Serve como entrada para o processo de aprovação do projeto em relação ao req
 ## Relacionamentos
 
 **Papéis**  
-- **Responsável:** [Engenheiro de Requisitos](../papeis/engenheiro-requisitos)  
-- **Modificado por:** [Engenheiro de Requisitos](../papeis/engenheiro-requisitos)
+- **Responsável:** [Engenheiro de Requisitos](../papeis/engenheiro-requisitos.md)  
+- **Modificado por:** [Engenheiro de Requisitos](../papeis/engenheiro-requisitos.md)
 
 **Tarefas**  
 - **Entrada para:**  
