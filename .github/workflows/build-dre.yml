@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write   # 👉 PERMISSÃO DE ESCRITA AQUI
+      contents: write   # PERMISSÃO DE ESCRITA AQUI
 
     steps:
       - name: Checkout repository
