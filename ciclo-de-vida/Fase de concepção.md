@@ -68,7 +68,7 @@ A fase de Concepção pode incluir múltiplas iterações quando:
 
 | **Conceito** | VERIFICAR O QUE É NECESSÁRIO|
 |--------------|----------------------|
-|              | • [Ciclo de Vida do Projeto] (#) <br> • [Colaborar para Alinhar Interesses] (#) <br> •[Equilibrar Prioridades Concorrentes] (#) <br> • [Iteração] |
+|              | • [Ciclo de Vida do Projeto](#) <br> • [Colaborar para Alinhar Interesses](#) <br> •[Equilibrar Prioridades Concorrentes](#) <br> • [Iteração](#) |
                   
 ---
 
