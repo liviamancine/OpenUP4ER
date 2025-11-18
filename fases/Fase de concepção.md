@@ -1,7 +1,7 @@
 
 # Fase de Concepção (OpenUP4ER)
 
-A fase de Concepção tem como objetivo estabelecer a [Visão da Explicabilidade](visao-explicabilidade.md), alinhar expectativas dos stakeholders e identificar requisitos iniciais, riscos e critérios de sucesso relacionados à explicação produzida pelo sistema de Aprendizado de Máquina.
+A fase de Concepção tem como objetivo estabelecer a [Visão da Explicabilidade](definir-visao.md), alinhar expectativas dos stakeholders e identificar requisitos iniciais, riscos e critérios de sucesso relacionados à explicação produzida pelo sistema de Aprendizado de Máquina.
 
 O principal artefato produzido nesta fase é o [Documento de Requisitos de Explicabilidade (DRE)](DRE.md).
 O DRE é iniciado nesta fase, contendo:
