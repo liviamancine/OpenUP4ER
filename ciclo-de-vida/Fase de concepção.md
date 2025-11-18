@@ -3,7 +3,7 @@
 
 A fase de Concepção tem como objetivo estabelecer a [Visão da Explicabilidade](visao-explicabilidade.md), alinhar expectativas dos stakeholders e identificar requisitos iniciais, riscos e critérios de sucesso relacionados à explicação produzida pelo sistema de Aprendizado de Máquina.
 
-O principal artefato produzido nesta fase é o [Documento de Requisitos de Explicabilidade (DRE)](DRE.md).
+O principal artefato produzido nesta fase é a [Dpcumento de Visão da Explicabilidade](definir-visao.md) que compõe o [Documento de Requisitos de Explicabilidade (DRE)](DRE.md).
 O DRE é iniciado nesta fase, contendo:
 
 • [a visão inicial da explicabilidade](#) <br>
@@ -16,7 +16,7 @@ O DRE é iniciado nesta fase, contendo:
 
 • [critérios iniciais de qualidade das explicações](#) <br>
 
-Conforme o processo evolui, o [DRE] (Documento de Requisito de Explicabilidade) é continuamente atualizado a cada iteração e interação das fases seguintes (Elaboração (#), Construção e Transição), incorporando novos requisitos, refinamentos arquiteturais, decisões de projeto e resultados de testes de usabilidade (VALIDAR) e validação de explicabilidade.
+Conforme o processo evolui, o [DRE](DRE.md) é continuamente atualizado a cada iteração e interação das fases seguintes (Elaboração (#), Construção e Transição), incorporando novos requisitos, refinamentos arquiteturais, decisões de projeto e resultados de testes de usabilidade (VALIDAR) e validação de explicabilidade.
 
 Esse processo incremental assegura que a explicabilidade seja tratada como um requisito não funcional essencial, integrado desde a concepção e evoluindo conforme o conhecimento sobre o sistema também evolui.
 
