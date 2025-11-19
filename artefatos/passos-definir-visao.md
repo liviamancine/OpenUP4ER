@@ -41,6 +41,7 @@ A solução é proposta para abordar o problema de falta de confiança, transpar
 [Documento de Visão de Explicabilidade](../tarefas/definir.visao.md) → seção 3.1 - Resumo dos stakeholders
 
 **Boas Práticas**
+
 *Perguntas úteis*
 - Quem precisa entender as decisões do sistema? Por quê?
 - Que formato de explicação cada perfil prefere (texto resumido, relatório técnico, visualização)?
@@ -72,12 +73,13 @@ A solução é proposta para abordar o problema de falta de confiança, transpar
 Engenheiro de Requisitos
 
 **Onde registrar**
-glossario-explicabilidade.md (artefato) e seção do DRE.
+[glossario-explicabilidade.md](artefato-explicabilidade) e seção do DRE.
 
 **Boas práticas**
 Se você puder se encontrar pessoalmente com os Stakeholders, então você poderá conduzir uma entrevista ou uma sessão de brainstorming. Esta colaboração face-a-face é extremamente valiosa e reduz as possibilidades da equipe de projeto não entender as necessidades dos Stakeholders. Alguns requisitos podem já ter sido documentados em uma [Lista de Itens de Trabalho existente](verificar). Isto pode normalmente ser usado como um sólido ponto de partida do qual um conjunto completo de requisitos de explicabilidade possa ser criado.
 
-Qualquer requisito obtido durante esta etapa deve ser capturado na [Lista de Itens de Trabalho existente](verificar). Para mais informações, veja Task: {Encontrar e Descrever os Requisitos](VERIFICAR).
+Qualquer requisito obtido durante esta etapa deve ser capturado na [Lista de Itens de Trabalho existente](verificar). Para mais informações, veja Task: [Encontrar e Descrever os Requisitos](VERIFICAR).
+
 ---
 
 ## Ilustrações / Templates
