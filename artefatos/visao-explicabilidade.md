@@ -1,4 +1,4 @@
-# TEMPLATE DE ARTEFATO (OpenUP4ER)
+# ARTEFATO: VISÃO DA EXPLICABILIDADE
 
 **Descrição:**  
 Este artefato contém a definição da **visão dos Stakeholders a respeito do requisito de explicabilidade** no sistema de AM a ser desenvolvido.  
