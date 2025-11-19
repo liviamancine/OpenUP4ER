@@ -25,7 +25,7 @@ A solução é proposta para abordar o problema de falta de confiança, transpar
   - [Visão Explicabilidade](../artefatos/visao-explicabilidade.md)
 ---
 ## Passos
-1. Identificar os Stakeholders (foco: explicabilidade)
+***1. Identificar os Stakeholders (foco: explicabilidade)***
 
 **O que fazer**
 - Mapear pessoas/grupos/perfis que precisam receber, entender ou auditar explicações (veja Papéis)[../papeis].
@@ -44,7 +44,7 @@ A solução é proposta para abordar o problema de falta de confiança, transpar
 - Que formato de explicação cada perfil prefere (texto resumido, relatório técnico, visualização)?
 - Com que frequência precisam das explicações?
 
-2. Adquirir consenso sobre o problema (não pule para soluções)
+***2. Adquirir consenso sobre o problema (não pule para soluções)***
 
 **O que fazer**
 - Conduzir workshops, entrevistas para definir qual é o problema de explicabilidade (p. ex. “não entendemos porque o modelo me fornece um resultado positivo”).
@@ -59,8 +59,8 @@ A solução é proposta para abordar o problema de falta de confiança, transpar
 
 **Boas Práticas**
 -  [Guidaline: Técnica para obtenção de requisitos de explicabilidade](VERIFICAR)
-
-##3. Capturar um vocabulário comum (glossário)
+---
+***3. Capturar um vocabulário comum (glossário)***
 
 **O que fazer**
 - Construir um glossário com termos centrais: explicabilidade, interpretabilidade, local/global, saliência, confiança, rastreabilidade, etc.
@@ -74,8 +74,8 @@ Engenheiro de Requisitos
 
 **Boas práticas**
 O glossário é uma lista simples em ordem alfabética dos termos do domínio e suas definições.
-
-##4. Obter solicitações dos Stakeholders (elicitação focada em explicabilidade)
+---
+***4. Obter solicitações dos Stakeholders (elicitação focada em explicabilidade)***
 
 **O que fazer**
 
@@ -98,8 +98,8 @@ Qualquer requisito obtido durante esta etapa deve ser capturado na [Lista de Ite
 *Perguntas/artefatos*
 “Que informação é necessária para você confiar numa decisão automática?”
 Ex.: protótipo com explicação textual + visual para avaliar preferências.
-
-## 5. Definir os limites da Explicabilidade
+---
+***5. Definir os limites da Explicabilidade***
 
 **O que fazer**
 
@@ -114,14 +114,9 @@ Engenheiro de Requisitos + Arquiteto de Software + Gerente de Projeto.
 
 - Veja Tarefa: [Encontrar e Descrever os Requisitos](VERIFICAR).
 - História de Usuários é uma técnica que pode ser útil na definição do limite da Explicabilidade.
-
 ---
 
-## Ilustrações / Templates
-- [Nome do Template](../templates/template-nome.md)
-- [Exemplo de Preenchimento](../examples/exemplo-nome.md)
-
-##6. Identificar as restrições no sistema (impactos para explicabilidade)
+***6. Identificar as restrições no sistema (impactos para explicabilidade)***
 
 **O que fazer**
 
@@ -133,8 +128,8 @@ Engenheiro de Requisitos + Gerente de Projeto + Arquiteto + especialista em éti
 
 Onde registrar
 [Documento de Visão da Explicabilidade](../tarefas/definir.visao.md) → seção 4.1 Necessidades e Funcionalidades e  5. Outros Requisitos do Produto (Explicabilidade) 
-
-##7. Obter consenso (revisão da Visão)
+---
+***7. Obter consenso (revisão da Visão)***
 
 **O que fazer**
 
@@ -150,9 +145,6 @@ Engenheiro de Requisitos (facilitador), Stakeholders, Gerente de Projeto, Arquit
 - [Documento de Visão de Explicabilidade](../tarefas/definir-visao.md) (versão aprovada)
 
 **Boas Práticas**
-
-
-
 ---
 
 ## Informações Adicionais
@@ -167,7 +159,7 @@ Engenheiro de Requisitos (facilitador), Stakeholders, Gerente de Projeto, Arquit
 - [Guidaline: Técnica para obtenção de requisitos de explicabilidade](VERIFICAR)
 - [Glossário](glossario-explicabilidade.md)
 - [Encontrar e Descrever os Requisitos](VERIFICAR)
-
+---
 **Referências:**  
 - [Link para o OpenUP Original](file:///C:/Users/Livia%20Mancine/Downloads/OpenUP/Publish/openup/tasks/define_vision_9D36CF2F.html)
 
