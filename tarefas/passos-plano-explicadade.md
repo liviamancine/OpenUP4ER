@@ -175,5 +175,5 @@ Engenheiro de Requisitos (facilitador), Stakeholders, Gerente de Projeto, Arquit
 - [Encontrar e Descrever os Requisitos](VERIFICAR)
 ---
 **Referências:**  
-- [Link para o OpenUP Original](file:///C:/Users/Livia%20Mancine/Downloads/OpenUP/Publish/openup/tasks/define_vision_9D36CF2F.html)
+- [Link para o OpenUP Original](file:///C:/Users/Livia%20Mancine/Downloads/OpenUP/Publish/openup/tasks/plan_the_project_A4A80C96.html)
 
