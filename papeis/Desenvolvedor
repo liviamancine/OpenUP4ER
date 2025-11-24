@@ -1,0 +1,1 @@
+Este papel é responsável por desenvolver uma parte do sistema, incluindo a construção de seu design de forma que ele atenda a arquitetura e possivelmente a prototipagem da interface de usuário, e então implementar, executar o teste de unidade e integrar os componentes que são parte da solução.
