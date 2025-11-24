@@ -14,7 +14,7 @@ O Plano de Explicabilidade descreve quando, como e por quem as atividades relaci
 
 **Papéis**  
 - **Responsável:** [Gerente de Projetos](../papeis/gerente-projeto.md)  
-- **Executores Adicionais:** [Engenheiro de Requisitos](engenheiro-requisito), [Arquiteto de Software](../papeis/arquiteto-software.md), [Desenvolvedor](../papeis/gerente-projeto.md), 
+- **Executores Adicionais:** [Engenheiro de Requisitos](engenheiro-requisito.md), [Arquiteto de Software](../papeis/arquiteto-software.md), [Desenvolvedor](../papeis/gerente-projeto.md), 
 [Especialista Ética](../papeis/especialista-etica-regulacao) e [Stakeholders](../papeis/stakeholders)
 
 **Entradas**  
