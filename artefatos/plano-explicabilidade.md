@@ -1,42 +1,49 @@
-# TEMPLATE DE ARTEFATO (OpenUP4ER)
+# Plano de Explicabilidade (OpenUP4ER)
 
 **Descrição:**  
-[Breve explicação do propósito do artefato — ex: “Este artefato contém a definição da visão dos stakeholders a respeito do produto a ser desenvolvido, especificada em termos das principais características e necessidades dos stakeholders.”]
+Este artefato registra as informações necessárias para gerenciar o requisito de explicabilidade. Sua principal parte consiste em um plano genérico, contendo as fases e os marcos do requisito de explicabilidade.
 
-**Domínios:** [Ex: Requisitos, Arquitetura, Testes]  
-**Tipo de Produto de Trabalho:** [Ex: Conceito, Documento, Modelo, Plano]  
+**Domínios:** [Gestão de Projeto](Gestão de Projetos) 
+**Tipo de Produto de Trabalho:** [Pano](Plano)  
 
 ---
 
 ## Objetivo
-[Descreva a função principal do artefato — ex: “Fornecer uma base de alto nível para os requisitos técnicos detalhados, capturando as restrições de design e os requisitos de alto nível que expressam a essência do sistema.”]
+A finalidade deste artefato é fornecer um documento central onde qualquer membro da equipe de projeto possa encontrar informações sobre como a explicabilidade será gerenciada.
 
 ---
 
 ## Relacionamentos
 
 **Papéis**  
-- **Responsável:** [Ex: Engenheiro de Requisitos]  
-- **Modificado por:** [Ex: Arquiteto de Software]  
+- **Responsável:** [Gerente de Projetos](../papeis/gerente-projeto.md) 
+- **Modificado por:** [Gerente de Projetos](../papeis/gerente-projeto.md)  
 
 **Tarefas**  
 - **Entrada para:**  
-  - [Ex: Detalhar os Requisitos](../tasks/detalhar-requisitos.md)  
-  - [Ex: Planejar o Projeto](../tasks/planejar-projeto.md)  
-- **Saída de:**  
-  - [Ex: Definir a Visão](../tasks/definir-visao.md)
-
+  - [Avaliar os Resultados](#)  
+  - [Gerenciar a Iteração](#)
+  - [Planejar a Iteração](#)
+ 
+  - [Planejar a explicabilidade](../tarefas/plano-explicabilidade.md)
+    
+- **Saída de:**
+  - [Avaliar os Resultados](#)
+  - [Gerenciar a Iteração](#)
+   - [Planejar a explicabilidade](../tarefas/plano-explicabilidade.md)
 ---
 
 ## Descrição Principal
-[Descreva o conteúdo do artefato, seu escopo e uso no processo. Ex:  
-“Este artefato fornece uma visão completa do sistema de software e dá suporte ao contrato entre cliente e equipe de desenvolvimento. Ele é escrito a partir da perspectiva dos stakeholders e deve incluir as características essenciais e os níveis aceitáveis de qualidade.”]
+Este artefato define os parâmetros para o acompanhamento do progresso do requisito de explicabilidade ao longo do projeto e especifica os objetivos de alto nível das iterações e seus marcos relacionados aos aspectos associados à explicabilidade  que deve ser produzidas pelo sistema baseado em AM.
 
+Descreve como a explicabilidade será incorporada, validada e monitorada durante todo o ciclo de vida, garantindo que o requisito seja tratado desde a fase de concepção até a entrega final.
+
+O gerente de projeto é responsável por desenvolver o plano de explicabilidade, trabalhando em conjunto com o resto da equipe. Este artefato permite que os Stakeholders e os outros membros da equipe tenham uma panorâmica do projeto e uma idéia do que esperar do requisito de explicabilidade. Ele também é usado para registrar as lições aprendidas no projeto.
 ---
 
 ## Ilustrações / Templates
-- [Nome do Template](../templates/template-nome.md)
-- [Exemplo de Preenchimento](../examples/exemplo-nome.md)
+- [Plano de Explicabilidade](../tarefas/plano-explicabilidade.md)
+- [Exemplo de Preenchimento](../examples/exemplo-plano.md)
 
 ---
 
@@ -53,8 +60,8 @@
 ## Informações Adicionais
 
 **Listas de Verificação:**  
-- [Qualidades de Bons Requisitos](../checklists/qualidades-bons-requisitos.md)
+- [Plano de Explicabilidade](#)
 
 **Referências:**  
-- [Link para o OpenUP Original](https://www.utm.mx/~caff/doc/OpenUPWeb/openup/guidances/guidelines/guideline_123456.html)
+- [Link para o OpenUP](file:///C:/Users/Livia%20Mancine/Downloads/OpenUP/Publish/openup/workproducts/project_plan_1CDBB7E4.html)
 
