@@ -35,6 +35,7 @@ A solução é proposta para abordar o problema de falta de confiança, transpar
 - Engenheiro de Requisitos (líder) com apoio do Gerente de Projeto.
 
 **Onde registrar**
+
 [Documento de Visão de Explicabilidade](../tarefas/definir.visao.md) → seção 3.1 - Resumo dos stakeholders
 
 **Boas Práticas**
@@ -54,6 +55,7 @@ A solução é proposta para abordar o problema de falta de confiança, transpar
 - Engenheiro de Requisitos (facilitador), Stakeholders.
 
 **Onde registrar**
+
 - [Documento de Visão da Explicabilidade](../tarefas/definir.visao.md) → seção 4.1 Necessidades e Funcionalidades 
 - [Itens gerados para Lista de Itens de Trabalho](Verificar)
 
@@ -71,7 +73,8 @@ A solução é proposta para abordar o problema de falta de confiança, transpar
 Engenheiro de Requisitos
 
 **Onde registrar**
-[Glossário](glossario-explicabilidade.md)(../tarefas/artefato-explicabilidade) e seção do [DRE](VERIFICAR).
+
+[Glossário](glossario-explicabilidade.md)(.../tarefas/#) e seção do [DRE](VERIFICAR).
 
 **Boas práticas**
 
