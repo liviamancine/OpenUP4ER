@@ -1,4 +1,4 @@
-# Padrão de Capacidade: [Nome da Fase]
+# Tarefa: [Nome da Fase]
 
 ## Objetivo
 Descreva o propósito principal deste padrão de capacidade.  
@@ -75,3 +75,4 @@ Use este espaço para observações adicionais, boas práticas ou restrições e
 ---
 
 🧩 **OpenUP4ER — Framework de Engenharia de Requisitos para Explicabilidade em Sistemas de IA**
+
