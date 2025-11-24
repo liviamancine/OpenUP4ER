@@ -74,7 +74,7 @@ Engenheiro de Requisitos
 
 **Onde registrar**
 
-[Glossário](glossario-explicabilidade.md)(.../tarefas/#) e seção do [DRE](VERIFICAR).
+[Glossário](../tarefas/#) e seção do [DRE](VERIFICAR).
 
 **Boas práticas**
 
