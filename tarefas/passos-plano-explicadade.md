@@ -1,4 +1,4 @@
-# Tarefa: Definir a Visão (Passos)
+# Tarefa: Plano para Explicabilidade (Passos)
 
 **Descrição:**  
 Definir a visão da explicabilidade para o sistema, identificando o problema relacionado à ausência ou insuficiência de explicações e descrevendo os aspectos de confiança e transparência e compreensão esperados, com base nas necessidades e solicitações dos Stakeholders que dependem da compreensão das decisões do modelo.
