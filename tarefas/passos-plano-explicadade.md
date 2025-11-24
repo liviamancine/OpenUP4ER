@@ -1,16 +1,20 @@
 # Tarefa: Plano para Explicabilidade (Passos)
 
 **Descrição:**  
-Definir a visão da explicabilidade para o sistema, identificando o problema relacionado à ausência ou insuficiência de explicações e descrevendo os aspectos de confiança e transparência e compreensão esperados, com base nas necessidades e solicitações dos Stakeholders que dependem da compreensão das decisões do modelo.
+Uma tarefa colaborativa que estabelece o acordo inicial sobre como o projeto irá incorporar, desenvolver e validar a explicabilidade ao longo do seu ciclo de vida.
+
+O Plano de Explicabilidade resultante fornece uma visão geral resumida de como o requisito de explicabilidade será tratado.
 
 **Objetivo**
-A solução é proposta para abordar o problema de falta de confiança, transparência e compreensibilidade nas decisões produzidas pelo sistema de AM. Os Stakeholders colaboram com a equipe de desenvolvimento para expressar e documentar suas necessidades de explicação, seus critérios de confiança e os tipos de informações que precisam compreender. Esse alinhamento permite que a equipe do projeto obtenha uma visão clara sobre como a explicabilidade deve ser integrada ao sistema e quais mecanismos devem ser implementados para atendê-los.
+Obter a aprovação dos Stakeholders para iniciar o tratamento da explicabilidade como um requisito não funcional essencial do projeto e garantir o compromisso da equipe para executá-lo ao longo de todas as fases do desenvolvimento.
+
+O Plano de Explicabilidade descreve quando, como e por quem as atividades relacionadas à explicabilidade serão realizadas. Assim como no OpenUP original, este plano pode — e deve — ser atualizado continuamente conforme surgirem novas descobertas, feedback dos usuários, resultados de validações iterativas, ou mudanças no ambiente regulatório, técnico ou organizacional.
 
 ## Relacionamentos
 
 **Papéis**  
-- **Responsável:** [Engenheiro de Requisitos](../papeis/engenheiro-requisitos.md)  
-- **Executores Adicionais:** [Arquiteto de Software](../papeis/arquiteto-software.md), [Gerente de Projetos](../papeis/gerente-projeto.md), 
+- **Responsável:** [Gerente de Projetos](../papeis/gerente-projeto.md)  
+- **Executores Adicionais:** [Engenheiro de Requisitos](engenheiro-requisito), [Arquiteto de Software](../papeis/arquiteto-software.md), [Gerente de Projetos](../papeis/gerente-projeto.md), 
 [Especialista Ética](../papeis/especialista-etica-regulacao) e [Stakeholders](../papeis/stakeholders)
 
 **Entradas**  
