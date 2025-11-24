@@ -78,7 +78,7 @@ Evite detalhes de design. Mantenha as descrições das funcionalidades em um ní
 
 ## 5. Outros Requisitos do Produto (Explicabilidade)
 
-Esta seção descreve requisitos adicionais relacionados à explicabilidade que não foram capturados como aspectos funcionais. Inclui padrões aplicáveis, requisitos técnicos, restrições de design, dependências, requisitos de documentação e critérios de qualidade relacionados às explicações geradas pelo sistema.
+Esta seção descreve requisitos adicionais relacionados à explicabilidade que não foram capturados como aspectos de funcionalidade em um nível geral. Inclui padrões aplicáveis, requisitos técnicos, restrições de design, dependências, requisitos de documentação e critérios de qualidade relacionados às explicações geradas pelo sistema.
 
 ---
 
