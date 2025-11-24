@@ -77,8 +77,8 @@ Engenheiro de Requisitos
 [Glossário](../tarefas/#) e seção do [DRE](VERIFICAR).
 
 **Boas práticas**
-
 O glossário é uma lista simples em ordem alfabética dos termos do domínio e suas definições.
+
 ---
 ***4. Obter solicitações dos Stakeholders (elicitação focada em explicabilidade)***
 
@@ -102,7 +102,7 @@ Qualquer requisito obtido durante esta etapa deve ser capturado na [Lista de Ite
 
 *Perguntas/artefatos*
 
-"Que informação é necessário para você confiar numa decisão automática?"
+Que informação é necessário para você confiar numa decisão automática?
 Ex.: protótipo com explicação textual + visual para avaliar preferências.
 ---
 ***5. Definir os limites da Explicabilidade***
@@ -152,8 +152,7 @@ Engenheiro de Requisitos (facilitador), Stakeholders, Gerente de Projeto, Arquit
 - [Documento de Visão de Explicabilidade](../tarefas/definir-visao.md) (versão aprovada)
 
 **Boas Práticas**
-
--[VAMOS TER UM DOCUMENTO INDICANDO BOAS PRÁTICAS](#)
+-[VAMOS TER UM DOCUMENTO INDICANDO BOAS PRÁTICAS?](#)
 ---
 
 ## Informações Adicionais
