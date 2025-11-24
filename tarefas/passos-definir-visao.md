@@ -157,7 +157,8 @@ Engenheiro de Requisitos (facilitador), Stakeholders, Gerente de Projeto, Arquit
 
 **Boas Práticas**
 
--[VAMOS TER UM DOCUMENTO INDICANDO BOAS PRÁTICAS?](#)
+- [VAMOS TER UM DOCUMENTO INDICANDO BOAS PRÁTICAS?](#)
+
 ---
 
 ## Informações Adicionais
