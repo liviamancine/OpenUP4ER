@@ -58,6 +58,7 @@ A solução é proposta para abordar o problema de falta de confiança, transpar
 - [Itens gerados para Lista de Itens de Trabalho](Verificar)
 
 **Boas Práticas**
+
 -  [Guidaline: Técnica para obtenção de requisitos de explicabilidade](VERIFICAR)
 ---
 ***3. Capturar um vocabulário comum (glossário)***
@@ -73,6 +74,7 @@ Engenheiro de Requisitos
 [Glossário](glossario-explicabilidade.md)(../tarefas/artefato-explicabilidade) e seção do [DRE](VERIFICAR).
 
 **Boas práticas**
+
 O glossário é uma lista simples em ordem alfabética dos termos do domínio e suas definições.
 ---
 ***4. Obter solicitações dos Stakeholders (elicitação focada em explicabilidade)***
@@ -96,6 +98,7 @@ Se você puder se encontrar pessoalmente com os Stakeholders, então você poder
 Qualquer requisito obtido durante esta etapa deve ser capturado na [Lista de Itens de Trabalho existente](VERIFICAR). Para mais informações, veja Tarefa: [Encontrar e Descrever os Requisitos](VERIFICAR).
 
 *Perguntas/artefatos*
+
 “Que informação é necessária para você confiar numa decisão automática?”
 Ex.: protótipo com explicação textual + visual para avaliar preferências.
 ---
@@ -127,6 +130,7 @@ Levantar restrições: regulatórias (LGPD, requisitos de auditoria), econômica
 Engenheiro de Requisitos + Gerente de Projeto + Arquiteto + especialista em ética e regulação (se houver).
 
 Onde registrar
+
 [Documento de Visão da Explicabilidade](../tarefas/definir.visao.md) → seção 4.1 Necessidades e Funcionalidades e  5. Outros Requisitos do Produto (Explicabilidade) 
 ---
 ***7. Obter consenso (revisão da Visão)***
@@ -145,6 +149,8 @@ Engenheiro de Requisitos (facilitador), Stakeholders, Gerente de Projeto, Arquit
 - [Documento de Visão de Explicabilidade](../tarefas/definir-visao.md) (versão aprovada)
 
 **Boas Práticas**
+
+-[VAMOS TER UM DOCUMENTO INDICANDO BOAS PRÁTICAS](#)
 ---
 
 ## Informações Adicionais
