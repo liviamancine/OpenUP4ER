@@ -102,7 +102,7 @@ Qualquer requisito obtido durante esta etapa deve ser capturado na [Lista de Ite
 
 *Perguntas/artefatos*
 
-"Que informação é necessária para você confiar numa decisão automática?"
+"Que informação é necessário para você confiar numa decisão automática?"
 Ex.: protótipo com explicação textual + visual para avaliar preferências.
 ---
 ***5. Definir os limites da Explicabilidade***
