@@ -104,7 +104,8 @@ Qualquer requisito obtido durante esta etapa deve ser capturado na [Lista de Ite
 
 Que informação é necessário para você confiar numa decisão automática?
 
-Ex.: protótipo com explicação textual + visual para avaliar preferências.
+Exemplo: protótipo com explicação textual + visual para avaliar preferências.
+
 ---
 ***5. Definir os limites da Explicabilidade***
 
@@ -135,7 +136,9 @@ Engenheiro de Requisitos + Gerente de Projeto + Arquiteto + especialista em éti
 
 Onde registrar
 
-[Documento de Visão da Explicabilidade](../tarefas/definir.visao.md): seção 4.1 Necessidades e Funcionalidades e  5. Outros Requisitos do Produto (Explicabilidade) 
+[Documento de Visão da Explicabilidade](../tarefas/definir.visao.md): seção 4.1 Necessidades e Funcionalidade e 5. Outros Requisitos do Produto (Explicabilidade)
+
+
 ---
 ***7. Obter consenso (revisão da Visão)***
 
