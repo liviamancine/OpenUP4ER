@@ -2,4 +2,4 @@
 
 Apoia desde a concepção, alertando sobre limitações e implicações de modelos de aprendizado de máquina que afetam a explicabilidade. Contribui com estimativas técnicas.
 
-Link relacionado: [Detalhes do papel no OpenUP]()
+
