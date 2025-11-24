@@ -1,4 +1,4 @@
-# Documento de Referência de Explicabilidade (DRE)
+# Documento de Referência de Especificação (DRE)
 
 ## 1. Documento: Definição da Visão
 
@@ -31,7 +31,7 @@ Apresente uma declaração que resuma o problema que este projeto visa resolver.
 | **cujo o impacto é**         | descrição das consequências: falta de confiança, barreiras legais, dificuldade de adoção, dificuldade de validação e retrabalho|
 | **uma solução bem sucedida seria**| benefícios esperados: transparência, auditoria, aceitação do sistema |
 
-### 2.2 Declaração de Posicionamento do Produto
+### 2.2 Declaração de Posicionamento do Produto (fazer para cada perfil de usuário que necessita de explicabilidade)
 
 | Elemento | Descrição |
 |----------|-----------|
@@ -46,7 +46,7 @@ Uma declaração de posicionamento comunica a intenção do produto e sua import
 
 ## 3. Descrição dos stakeholders que necessitam de explicabilidade
 
-###3.1 Resumo dos stakeholders 
+### 3.1 Resumo dos stakeholders 
 
 | Elemento                     | Descrição                                      | Responsabilidade                                        |
 |------------------------------|------------------------------------------------|---------------------------------------------------------|
@@ -68,20 +68,17 @@ Detalhar o contexto de uso: onde os usuários interagem com explicações, neces
 
 Evite detalhes de design. Mantenha as descrições das funcionalidades em um nível geral. Concentre-se nas capacidades necessárias e no porquê (não em como) elas devem ser implementadas. Registre a prioridade das partes interessadas e o lançamento planejado para cada funcionalidade.
 
-| Necessidade                     | Prioridade   | Característica                            | Planned Release|
+| Necessidade                     | Prioridade   | Característica/Aspecto Associado          | Planned Release|
 |---------------------------------|--------------|-------------------------------------------|----------------|
 | **Entender decisões do sistema**               | Alta| Transparência, Compreensibilidade   | Versão 1       |
 | **Possibilitar auditoria regulatória**         | Alta | Rastreabilidade, Confiabilidade das explicações | Versão 1|
 | **Explicações ajustadas ao perfil do usuário** | Média | Granularidade da explicação, Usabilidade das explicações | Versão 2|
 | **Garantir aderência a normas éticas e legais**| Alta | Ética e Conformidade legal | Versão 1|
 
-## 5. Outros Requisitos do Produto (Explicabilidade)
-
-Esta seção descreve requisitos adicionais relacionados à explicabilidade que não foram capturados como aspectos funcionais. Engloba padrões aplicáveis, requisitos de desempenho, restrições de design, dependências, requisitos de documentação e critérios de qualidade relacionados às explicações geradas pelo sistema.
 
 ## 5. Outros Requisitos do Produto (Explicabilidade)
 
-Esta seção descreve requisitos adicionais relacionados à explicabilidade que não foram capturados como aspectos funcionais. Inclui padrões aplicáveis, requisitos técnicos, restrições de design, dependências, requisitos de documentação e critérios de qualidade relacionados às explicações geradas pelo sistema.
+Esta seção descreve requisitos adicionais relacionados à explicabilidade que não foram capturados como aspectos de funcionalidade em um nível geral. Inclui padrões aplicáveis, requisitos técnicos, restrições de design, dependências, requisitos de documentação e critérios de qualidade relacionados às explicações geradas pelo sistema.
 
 ---
 

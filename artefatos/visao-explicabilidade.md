@@ -1,4 +1,4 @@
-# TEMPLATE DE ARTEFATO (OpenUP4ER)
+# ARTEFATO: VISÃO DA EXPLICABILIDADE
 
 **Descrição:**  
 Este artefato contém a definição da **visão dos Stakeholders a respeito do requisito de explicabilidade** no sistema de AM a ser desenvolvido.  
@@ -22,8 +22,8 @@ Serve como entrada para o processo de aprovação do projeto em relação ao req
 ## Relacionamentos
 
 **Papéis**  
-- **Responsável:** [Engenheiro de Requisitos](../papeis/engenheiro-requisitos)  
-- **Modificado por:** [Engenheiro de Requisitos](../papeis/engenheiro-requisitos)
+- **Responsável:** [Engenheiro de Requisitos](../papeis/engenheiro-requisitos.md)  
+- **Modificado por:** [Engenheiro de Requisitos](../papeis/engenheiro-requisitos.md)
 
 **Tarefas**  
 - **Entrada para:**  
@@ -38,7 +38,7 @@ Serve como entrada para o processo de aprovação do projeto em relação ao req
   - [Planejar a Iteração]
     
 - **Saída de:**  
-  - [Documento Visão da Explicabilidade](definir-visao.md)
+  - [Como definir Visão da Explicabilidade](#)
 
 ---
 
