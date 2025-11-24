@@ -113,7 +113,7 @@ Engenheiro de Requisitos + Arquiteto de Software + Gerente de Projeto.
 **Onde registrar**
 
 - Veja Tarefa: [Encontrar e Descrever os Requisitos](VERIFICAR).
-- História de Usuários é uma técnica que pode ser útil na definição do limite da Explicabilidade.
+- [História de Usuários](#) é uma técnica que pode ser útil na definição do limite da Explicabilidade.
 ---
 
 ***6. Identificar as restrições no sistema (impactos para explicabilidade)***
