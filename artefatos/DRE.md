@@ -31,7 +31,7 @@ Apresente uma declaração que resuma o problema que este projeto visa resolver.
 | **cujo o impacto é**         | descrição das consequências: falta de confiança, barreiras legais, dificuldade de adoção, dificuldade de validação e retrabalho|
 | **uma solução bem sucedida seria**| benefícios esperados: transparência, auditoria, aceitação do sistema |
 
-### 2.2 Declaração de Posicionamento do Produto
+### 2.2 Declaração de Posicionamento do Produto (fazer para cada perfil de usuário que necessita de explicabilidade)
 
 | Elemento | Descrição |
 |----------|-----------|
