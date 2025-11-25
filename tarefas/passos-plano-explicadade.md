@@ -15,32 +15,39 @@ O Plano de Explicabilidade descreve quando, como e por quem as atividades relaci
 **Papéis**  
 - **Responsável:** [Gerente de Projetos](../papeis/gerente-projeto.md)  
 - **Executores Adicionais:** [Engenheiro de Requisitos](engenheiro-requisito.md), [Arquiteto de Software](../papeis/arquiteto-software.md), [Desenvolvedor](../papeis/gerente-projeto.md), 
-[Especialista Ética](../papeis/especialista-etica-regulacao) [Stakeholders](../papeis/stakeholders)
+[Especialista Ética](../papeis/especialista-etica-regulacao), [Stakeholders](../papeis/stakeholders) e [Testador](../papeis/testador)
 
 **Entradas**  
 - **Obrigatório:**  
-  - Nenhum
-- **Opcional:**  
   - [Lista de Item de Trabalho](#) 
-  - [Visão Explicabilidade](../artefatos/visao-explicabilidade.md) 
+  - [Visão Explicabilidade](../artefatos/plano-explicabilidade.md) 
+
+- **Opcional:**  
+  - [Lista de Risco](#) 
+  - [Plano de Explicabilidade](../artefatos/-explicabilidade.md) 
+
 - **Saída de:**  
-  - [Glossário](#)
   - [Lista de Item de Trabalhos](#)
-  - [Visão Explicabilidade](../artefatos/visao-explicabilidade.md)
+  - [Lista de Risco](#) 
+  - [Visão Explicabilidade](../artefatos/plano-explicabilidade.md)
 ---
 ## Passos
-***1. Identificar os Stakeholders (foco: explicabilidade)***
+***1. Estabeleça uma equipe coesa (foco: explicabilidade)***
 
 **O que fazer**
-- Mapear pessoas/grupos/perfis que precisam receber, entender ou auditar explicações (veja Papéis)[../papeis].
-- Para cada stakeholder, registrar: objetivos, que tipo de explicação precisa (local/global, técnico/resumido), nível de detalhe e canais (UI, relatório, API).
+- Organizar a equipe responsável pela explicabilidade, definindo papéis, responsabilidades, comunicação e colaboração.
 
 **Quem**
-- Engenheiro de Requisitos (líder) com apoio do Gerente de Projeto.
+- Engenheiro de Requisitos → elicitar e validar requisitos de explicabilidade
+- Arquiteto → incorporar Explainability by Design
+- Cientista de Dados → identificar limitações explicativas do modelo
+- Stakeholders → definir expectativas sobre compreensibilidade
+- Gerente de Projeto → garantir tempo e recursos
 
 **Onde registrar**
-
-[Documento de Visão de Explicabilidade](../tarefas/definir.visao.md) → seção 3.1 - Resumo dos stakeholders
+- [Plano de Explicabilidade]
+- [Mapa de Papéis]
+- [Documento de Visão da Explicabilidade]
 
 **Boas Práticas**
 
