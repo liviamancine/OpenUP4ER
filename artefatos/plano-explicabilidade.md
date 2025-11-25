@@ -4,7 +4,7 @@
 Este artefato registra as informações necessárias para gerenciar o requisito de explicabilidade. Sua principal parte consiste em um plano genérico, contendo as fases e os marcos do requisito de explicabilidade.
 
 **Domínios:** [Gestão de Projeto](Gestão de Projetos) 
-**Tipo de Produto de Trabalho:** [Pano](Plano)  
+**Tipo de Produto de Trabalho:** [Plano](Plano)  
 
 ---
 
