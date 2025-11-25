@@ -3,7 +3,8 @@
 **Descrição:**  
 Este artefato registra as informações necessárias para gerenciar o requisito de explicabilidade. Sua principal parte consiste em um plano genérico, contendo as fases e os marcos do requisito de explicabilidade.
 
-**Domínios:** [Gestão de Projeto](Gestão de Projetos) 
+**Domínios:** [Gestão de Projeto](Gestão-de-Projetos) 
+
 **Tipo de Produto de Trabalho:** [Plano](Plano)  
 
 ---
@@ -39,6 +40,7 @@ Este artefato define os parâmetros para o acompanhamento do progresso do requis
 Descreve como a explicabilidade será incorporada, validada e monitorada durante todo o ciclo de vida, garantindo que o requisito seja tratado desde a fase de concepção até a entrega final.
 
 O gerente de projeto é responsável por desenvolver o plano de explicabilidade, trabalhando em conjunto com o resto da equipe. Este artefato permite que os Stakeholders e os outros membros da equipe tenham uma panorâmica do projeto e uma idéia do que esperar do requisito de explicabilidade. Ele também é usado para registrar as lições aprendidas no projeto.
+
 ---
 
 ## Ilustrações / Templates
