@@ -45,40 +45,42 @@ O Plano de Explicabilidade descreve quando, como e por quem as atividades relaci
 - Gerente de Projeto → garantir tempo e recursos
 
 **Onde registrar**
-- [Plano de Explicabilidade]
-- [Mapa de Papéis]
-- [Documento de Visão da Explicabilidade]
+- [Plano de Explicabilidade](../artefatos/plano-explicabilidade.md)
+- [Mapa de Papéis](papeis)
+- [Documento de Visão da Explicabilidade](../artefatos/visao-explicabilidade.md)
 
 **Boas Práticas**
 
-*Perguntas úteis*
-- Quem precisa entender as decisões do sistema? Por quê?
-- Que formato de explicação cada perfil prefere (texto resumido, relatório técnico, visualização)?
-- Com que frequência precisam das explicações?
+- Assegurar que todos entendam o objetivo da explicabilidade.
+- Garantir representação de papéis técnicos, éticos e de negócio.
+- Refletir responsabilidades reais (não fictícias).
+- Garantir reuniões rápidas de alinhamento nas primeiras iterações.
 
-***2. Adquirir consenso sobre o problema (não pule para soluções)***
+***2. Determinar o tamanho e o escopo do projeto (explicabilidade)***
 
 **O que fazer**
-- Conduzir workshops, entrevistas para definir qual é o problema de explicabilidade (p. ex. “não entendemos porque o modelo me fornece um resultado positivo”).
-- Trabalhar o “problema por trás do problema” — identificar consequências (confiança, retrabalho, não conformidade).
+- Estimar esforço, priorizar aspectos explicáveis, e definir escopo inicial da explicabilidade.
 
 **Quem**
-- Engenheiro de Requisitos (facilitador), Stakeholders.
+- Engenheiro de Requisitos (responsável), Gerente de Projeto, Arquiteto e Stakeholders.
 
 **Onde registrar**
 
-- [Documento de Visão da Explicabilidade](../tarefas/definir.visao.md) → seção 4.1 Necessidades e Funcionalidades 
-- [Itens gerados para Lista de Itens de Trabalho](Verificar)
+- [Plano de Explicabilidade](../artefatos/plano-explicabilidade.md)
+- [Lista de Itens de Trabalho (com itens de explicabilidade)](#)
 
 **Boas Práticas**
 
--  [Guidaline: Técnica para obtenção de requisitos de explicabilidade](VERIFICAR)
+- Priorizar aspectos críticos: transparência, rastreabilidade, auditabilidade.
+- Avaliar complexidade técnica: modelo opaco vs modelo interpretável.
+- Evitar incluir tudo na primeira versão (seguir incremental).
+- Definir critérios de aceitação para cada aspecto.
+  
 ---
-***3. Capturar um vocabulário comum (glossário)***
+***3. Avaliar os riscos (de explicabilidade)***
 
 **O que fazer**
-- Construir um glossário com termos centrais: explicabilidade, interpretabilidade, local/global, saliência, confiança, rastreabilidade, etc.
-- Validar termos com stakeholders para evitar ambiguidade.
+- Identificar e avaliar riscos técnicos, éticos e regulatórios relacionados à explicabilidade.
 
 **Quem**
 Engenheiro de Requisitos
