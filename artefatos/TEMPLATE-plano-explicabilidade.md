@@ -1,4 +1,4 @@
-# Documento de Visão — Requisito de Explicabilidade
+# Plano de Explicabilidade   
 > **Projeto:** *Nome do Projeto*  
 > **Data:** dd/mm/aaaa  
 > **Versão:** 1.0  
@@ -6,16 +6,32 @@
 ---
 
 ## 1. Introdução
-Este documento apresenta uma visão geral do requisito de explicabilidade.
+Este plano descreve como o projeto irá gerenciar e evoluir o requisito de
+explicabilidade ao longo do ciclo de vida do software. Ele apresenta:
 
+- a organização da equipe envolvida na explicabilidade,
+- o processo de desenvolvimento adotado,
+- os marcos e objetivos relacionados à explicabilidade,
+- a estratégia de implantação das explicações,
+- e o registro das lições aprendidas.
+
+O plano é um documento vivo, atualizado iterativamente conforme novas informações surgem durante a Concepção, Elaboração, Construção e Transição do projeto.
 Sugestão:
-O problema da falta de explicabilidade em sistemas de Aprendizado de Máquina aplicados a [tarefa/objetivo do sistema] afeta diretamente [categoria de usuários impactados], pois gera [dificuldades ou limitações observadas, como falta de compreensão, perda de confiança, necessidade de transparência].
 
-Uma solução bem-sucedida deve fornecer [tipo de explicações desejadas: técnicas, claras, rastreáveis, contextualizadas, adaptadas ao usuário], permitindo que [usuário ou papel] consiga [ação esperada: entender os critérios utilizados, validar decisões, aumentar confiança, reduzir retrabalho, cumprir normas regulatórias].
 
 ---
 
-## 2. Posicionamento
+## 2. Organização do Projeto
+Esta seção apresenta a equipe e os papéis diretamente envolvidos no tratamento da explicabilidade. Como a explicabilidade afeta requisitos, arquitetura, dados e conformidade, a colaboração multidisciplinar é essencial.
+
+| Membros da Equipe            | Papel Principal | Papel Secundário   
+-------------------------------|-----------------|------------------|
+| [Engenheiro de Requisitos](../papeis/engenheiro-requisitos)| Responsável pelo requisito de explicabilidade (elicitação, análise e especificação)| Suporte à validação com stakeholders|
+|**afeta**                    | Stakeholders impactados: clientes, usuários finais, reguladores, administradores                  |
+| **cujo o impacto é**         | descrição das consequências: falta de confiança, barreiras legais, dificuldade de adoção, dificuldade de validação e retrabalho|
+| **uma solução bem sucedida seria**| benefícios esperados: transparência, auditoria, aceitação do sistema |
+
+
 
 ### 2.1 Declaração do Problema
 Apresente uma declaração que resuma o problema que este projeto visa resolver. O seguinte formato pode ser utilizado:
