@@ -29,7 +29,9 @@ Esta seção apresenta a equipe e os papéis diretamente envolvidos no tratament
 | [Engenheiro de Requisitos](../papeis/engenheiro-requisitos.md)| Responsável pelo requisito de explicabilidade (elicitação, análise e especificação)| 
 |[Arquiteto de Software](../papeis/arquiteto-software.md) |Incorporar Explainability by Design na arquitetura| Analisar impacto técnico do requisto|
 |[Cientista de Dados](../papeis/cientista-dados-eng-IA.md)| Avaliar interpretabilidade dos modelos|     |
-|[Desenvolvedor]
+|[Desenvolvedor]((../papeis/desenvolvedor.md))|Implementar explicabilidade| Manter integração com pipeline|
+|[Testador](../papeis/testador.md)| Testar usabilidade das explicações| Avaliar clareza|
+|[Especialista em Ética e Regulação](../papeis/.md)
 
 
 
