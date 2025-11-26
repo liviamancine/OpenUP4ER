@@ -24,12 +24,11 @@ Sugestão:
 ## 2. Organização do Projeto
 Esta seção apresenta a equipe e os papéis diretamente envolvidos no tratamento da explicabilidade. Como a explicabilidade afeta requisitos, arquitetura, dados e conformidade, a colaboração multidisciplinar é essencial.
 
-| Membros da Equipe            | Papel Principal | Papel Secundário   
--------------------------------|-----------------|------------------|
-| [Engenheiro de Requisitos](../papeis/engenheiro-requisitos)| Responsável pelo requisito de explicabilidade (elicitação, análise e especificação)| Suporte à validação com stakeholders|
-|**afeta**                    | Stakeholders impactados: clientes, usuários finais, reguladores, administradores                  |
-| **cujo o impacto é**         | descrição das consequências: falta de confiança, barreiras legais, dificuldade de adoção, dificuldade de validação e retrabalho|
-| **uma solução bem sucedida seria**| benefícios esperados: transparência, auditoria, aceitação do sistema |
+| Membros da Equipe            | Papel Principal   | Papel Secundário   
+-------------------------------|--------------------|--------------------|
+| [Engenheiro de Requisitos](../papeis/engenheiro-requisitos)| Responsável pelo requisito de explicabilidade (elicitação, análise e especificação)| 
+|[Arquiteto de Software](../papeis/arquiteto-software) |Incorporar Explainability by Design na arquitetura| Analisar impacto técnico do requisto|
+|[Cientista de Dados](../papeis/arquiteto-software)
 
 
 
