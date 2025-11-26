@@ -1,4 +1,4 @@
-# Plano de Explicabilidade (OpenUP4ER)
+# ARTEFATO: PLANO DE EXPLICABILIDADE
 
 **Descrição:**  
 Este artefato registra as informações necessárias para gerenciar o requisito de explicabilidade. Sua principal parte consiste em um plano genérico, contendo as fases e os marcos do requisito de explicabilidade.
