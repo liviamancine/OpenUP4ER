@@ -76,12 +76,14 @@ Os marcos definem quando os artefatos-chave da explicabilidade devem ser entregu
 
 | Fase     | Iteração   |Objetivos Principais |Marco/Datas  |Velocidade Alvo|
 |----------|------------|---------------------|-------------|----------|
-|Concepção | - Plano de Explicabilidade - Identificar Stakeholders| de xx/xx a xx/xx| 12|
+|Concepção | I1| Plano de Explicabilidade, Identificar Stakeholders| de xx/xx a xx/xx| 12|
+|Elaboração| I2| Elicitar requisitos de explicabilidade, validar requisitos com stakeholders| de xx/xx a xx/xx| 12|
+|Elaboração| I3| Refinar técnicas de explicação, prototipar| de xx/xx a xx/xx| 12|
+|Construção|
+|Elaboração|
+|Transição|
 
-
-
-
-## 4. Visão Geral do Produto 
+## 5. Implantação 
 
 ### 4.1 Necessidades e Funcionalidades 
 
