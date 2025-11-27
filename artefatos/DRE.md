@@ -157,7 +157,7 @@ A tabela abaixo resume a prioridade desses requisitos, considerando estabilidade
 
 
 
-## 1. Documento: Definição da Visão
+## 2. Documento: Glossário
 
 # Documento Glossário — Requisito de Explicabilidade
 > **Projeto:** *Nome do Projeto*  
