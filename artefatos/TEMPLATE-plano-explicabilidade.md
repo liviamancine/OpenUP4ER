@@ -31,50 +31,55 @@ Esta seção apresenta a equipe e os papéis diretamente envolvidos no tratament
 |[Cientista de Dados](../papeis/cientista-dados-eng-IA.md)| Avaliar interpretabilidade dos modelos|     |
 |[Desenvolvedor]((../papeis/desenvolvedor.md))|Implementar explicabilidade| Manter integração com pipeline|
 |[Testador](../papeis/testador.md)| Testar usabilidade das explicações| Avaliar clareza|
-|[Especialista em Ética e Regulação](../papeis/.md)
+|[Especialista em Ética e Regulação](../papeis/especialista-etica-regulação.md)| Validação Ética e conformidade legal| Revisar impactos regulatórios|
+|[Stakeholders](../papeis/stakeholders.md)| Fornecer requisitos de explicabilidade| Validar explicações geradas!
+|Gerente de Projeto (../papeis/gerente-projeto.md)| Garantir recursos, tempo e priorização| |
+
+---
+## 3. Processo de Desenvolvimento e Medições
+[Descreva ou mencione qual processo de desenvolvimento será utilizado, como o OpenUP4RE, e liste quaisquer alterações. Especifique como você acompanhará o progresso, por exemplo, por meio de reuniões diárias de revisão, avaliações de iteração, relatórios de Burndown do Projeto e Burndown da Iteração. Discuta como você lidará com outras métricas, como o uso do sistema de pontos para estimar o tamanho.]
+
+
+O projeto utilizará o OpenUP4ER, uma extensão do OpenUP com atividades específicas para explicabilidade.
+
+- Processo de desenvolvimento
+- Ciclo iterativo e incremental, com foco em risco.
+- Explicabilidade tratada desde a Concepção (Explainability by Design).
+- Entregas evolutivas de artefatos como:
+  - Documento de Visão da Explicabilidade
+  - Documento de Requisitos de Explicabilidade (DRE)
+  - Modelo Arquitetural com Módulo de Explicabilidade
+  - Protótipos de Explicação
+  - Relatório de Avaliação da Explicabilidade
+
+Como o progresso será acompanhado
+
+-  Revisões diárias (Daily Meetings)
+-  Avaliações de iteração
+-  Burndown de iteração (velocidade da entrega de itens de explicabilidade)
+-  Rastreabilidade de requisitos → arquitetura → explicações
+-  Validação contínua com usuários e stakeholders
+
+Medições usadas
+
+- Story points atribuídos a requisitos de explicabilidade
+- Métricas específicas da explicabilidade:
+  - clareza percebida
+  - completude
+  - tempo para gerar explicações
+  - fidelidade do método explicativo
+  - custo computacional da explicação
+---
+## 4 Marcos e Objetivos do Projeto
+
+Os marcos definem quando os artefatos-chave da explicabilidade devem ser entregues.
+
+| Fase     | Iteração   |Objetivos Principais |Marco/Datas  |Velocidade Alvo|
+|----------|------------|---------------------|-------------|----------|
+|Concepção | - Plano de Explicabilidade - Identificar Stakeholders| de xx/xx a xx/xx| 12|
 
 
 
-### 2.1 Declaração do Problema
-Apresente uma declaração que resuma o problema que este projeto visa resolver. O seguinte formato pode ser utilizado:
-
-| Elemento                     | Descrição                                                                                         |
-|------------------------------|---------------------------------------------------------------------------------------------------|
-| **O problema da**            | falta de explicabilidade em sistemas de aprendizado de máquina                                    |
-| **afeta**                    | Stakeholders impactados: clientes, usuários finais, reguladores, administradores                  |
-| **cujo o impacto é**         | descrição das consequências: falta de confiança, barreiras legais, dificuldade de adoção, dificuldade de validação e retrabalho|
-| **uma solução bem sucedida seria**| benefícios esperados: transparência, auditoria, aceitação do sistema |
-
-### 2.2 Declaração de Posicionamento do Produto (fazer para cada perfil de usuário que necessita de explicabilidade)
-
-| Elemento | Descrição |
-|----------|-----------|
-| **Para quem** | público-alvo do sistema |
-| **Para que** | necessitam compreender, auditar ou confiar nas decisões do sistema |
-| **O (nome do produto)** | é um(a) *[categoria do produto]* |
-| **Que** | O que o produto faz, seu benefício principal. |
-| **Unlike** | *[principal alternativa concorrente]* |
-| **Our product** | *[principal diferencial do produto]* |
-
-Uma declaração de posicionamento comunica a intenção do produto e sua importância para todos os envolvidos no projeto.
-
-## 3. Descrição dos stakeholders que necessitam de explicabilidade
-
-### 3.1 Resumo dos stakeholders 
-
-| Elemento                     | Descrição                                      | Responsabilidade                                        |
-|------------------------------|------------------------------------------------|---------------------------------------------------------|
-| **Cliente**                  | representa a organização que financia o projeto| Garante que os requisitos de explicabilidade estejam alinhados com metas de negócio|
-| **Usuário final**            | interage diretamente com o sistema             | Compreender e confiar nas explicações fornecidas                                   |
-| **Regulador**                | Órgão de auditoria ou legislação               | Garantir conformidade legal e ética |
-
-
-### 3.2 Ambiente do usuário
-Detalhar o contexto de uso: onde os usuários interagem com explicações, necessidades de interfaces, restrições regulatórias, plataformas existentes.
-
-– Plataformas utilizadas (web, mobile, desktop).
-– Restrições (regulatórias, de tempo real, acessibilidade).
-– Integração necessária com sistemas existentes.
 
 ## 4. Visão Geral do Produto 
 
