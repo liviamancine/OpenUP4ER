@@ -26,7 +26,12 @@ jobs:
 
           echo "## 1. Documento: Definição da Visão" >> artefatos/DRE.md
           echo "" >> artefatos/DRE.md
-          cat tarefas/definir-visao.md >> artefatos/DRE.md
+          cat artefatos/TEMPLATE-definir-visao.md >> artefatos/DRE.md
+          echo "" >> artefatos/DRE.md
+
+          echo "## 1. Documento: Definição da Visão" >> artefatos/DRE.md
+          echo "" >> artefatos/DRE.md
+          cat artefatos/TEMPLATE-glossario.md >> artefatos/DRE.md
           echo "" >> artefatos/DRE.md
 
       - name: Commit and push updated DRE
