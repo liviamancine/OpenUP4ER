@@ -3,6 +3,8 @@
 **Descrição:**  
 Definir a visão da explicabilidade para o sistema, identificando o problema relacionado à ausência ou insuficiência de explicações e descrevendo os aspectos de confiança e transparência e compreensão esperados, com base nas necessidades e solicitações dos Stakeholders que dependem da compreensão das decisões do modelo.
 
+[Disciplina: Requisitos](requisitos.md)
+
 **Objetivo**
 A solução é proposta para abordar o problema de falta de confiança, transparência e compreensibilidade nas decisões produzidas pelo sistema de AM. Os Stakeholders colaboram com a equipe de desenvolvimento para expressar e documentar suas necessidades de explicação, seus critérios de confiança e os tipos de informações que precisam compreender. Esse alinhamento permite que a equipe do projeto obtenha uma visão clara sobre como a explicabilidade deve ser integrada ao sistema e quais mecanismos devem ser implementados para atendê-los.
 
@@ -19,13 +21,13 @@ A solução é proposta para abordar o problema de falta de confiança, transpar
 - **Opcional:**  
   - [Lista de Item de Trabalho](#) 
   - [Visão Explicabilidade](../artefatos/visao-explicabilidade.md) 
-- **Saída de:**  
+- **Saídas:**  
   - [Glossário](#)
   - [Lista de Item de Trabalhos](#)
   - [Visão Explicabilidade](../artefatos/visao-explicabilidade.md)
 ---
 ## Passos
-***1. Identificar os Stakeholders (foco: explicabilidade)***
+***1. Identificar os Stakeholders que necessita de explicabilidade***
 
 **O que fazer**
 - Mapear pessoas/grupos/perfis que precisam receber, entender ou auditar explicações (veja Papéis)[../papeis].
