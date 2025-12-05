@@ -37,7 +37,7 @@ Esta seção deve apresentar de forma clara e concisa o problema relacionado à 
 - Engenheiro de Requisitos (líder) com apoio do Gerente de Projeto.
 
 **Onde registrar**
-[Documento de Visão de Explicabilidade](../artefatos/TEMPLATE-definir.visao.md) → seção 2.1 - Declaração do Problema
+[Documento de Visão de Explicabilidade](../artefatos/TEMPLATE-definir.visao.md) → seção 1 - Introdução e 2.1 - Declaração do Problema
 
 **Boas Práticas**
 - Evite propor solução antes de concordar sobre o problema.
