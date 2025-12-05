@@ -31,20 +31,21 @@ A solução é proposta para abordar o problema de falta de confiança, transpar
 
 **O que fazer**
 Identificar o problema que o projeto visa responder.
-Esta seção deve apresentar de forma clara e concisa o problema relacionado à explicabilidade em sistemas de aprendizado de máquina que o projeto pretende resolver. O objetivo é fornecer uma compreensão compartilhada entre os stakeholders sobre a motivação para incorporar explicabilidade como um requisito não funcional essencial.
+Esta seção deve apresentar de forma clara e concisa o problema relacionado à explicabilidade em sistemas de Aprendizado de Máquina que o projeto pretende resolver. O objetivo é fornecer uma compreensão compartilhada entre os stakeholders sobre a motivação para incorporar explicabilidade como um requisito não funcional essencial.
 
+**Quem**
+- Engenheiro de Requisitos (líder) com apoio do Gerente de Projeto.
 
-Boas Práticas
+**Onde registrar**
+[Documento de Visão de Explicabilidade](../tarefas/definir.visao.md) → seção 3.1 - Resumo dos stakeholders
 
-Evite propor solução antes de concordar sobre o problema.
+**Boas Práticas**
+- Evite propor solução antes de concordar sobre o problema.
+- Trabalhe com exemplos reais do domínio para aumentar clareza.
+- Garanta que todos os stakeholders entendam os termos usados ([relacionar ao glossário](TEMPLATE-glossario.md)).
+- Atualize a declaração conforme forem surgindo novas informações nas iterações.
 
-Trabalhe com exemplos reais do domínio para aumentar clareza.
-
-Garanta que todos os stakeholders entendam os termos usados (relacionar ao glossário).
-
-Atualize a declaração conforme forem surgindo novas informações nas iterações.
-
-***1. Identificar os Stakeholders que necessita de explicabilidade***
+***2. Identificar os Stakeholders que necessita de explicabilidade***
 
 **O que fazer**
 - Mapear pessoas/grupos/perfis que precisam receber, entender ou auditar explicações (veja Papéis)[../papeis].
@@ -54,7 +55,6 @@ Atualize a declaração conforme forem surgindo novas informações nas iteraç�
 - Engenheiro de Requisitos (líder) com apoio do Gerente de Projeto.
 
 **Onde registrar**
-
 [Documento de Visão de Explicabilidade](../tarefas/definir.visao.md) → seção 3.1 - Resumo dos stakeholders
 
 **Boas Práticas**
