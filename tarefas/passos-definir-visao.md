@@ -20,11 +20,11 @@ A solução é proposta para abordar o problema de falta de confiança, transpar
   - Nenhum
 - **Opcional:**  
   - [Lista de Item de Trabalho](#) 
-  - [Visão Explicabilidade](../artefatos/visao-explicabilidade.md) 
+  - [Visão Explicabilidade](../artefatos/TEMPLATE-definir.visao.md)
 - **Saídas:**  
   - [Glossário](#)
   - [Lista de Item de Trabalhos](#)
-  - [Visão Explicabilidade](../artefatos/visao-explicabilidade.md)
+  - [Visão Explicabilidade](../artefatos/TEMPLATE-definir.visao.md)
 ---
 ## Passos
 ***1. Identificar o Problema***
@@ -37,7 +37,7 @@ Esta seção deve apresentar de forma clara e concisa o problema relacionado à 
 - Engenheiro de Requisitos (líder) com apoio do Gerente de Projeto.
 
 **Onde registrar**
-[Documento de Visão de Explicabilidade](../tarefas/definir.visao.md) → seção 3.1 - Resumo dos stakeholders
+[Documento de Visão de Explicabilidade](../artefatos/TEMPLATE-definir.visao.md) → seção 2.1 - Declaração do Problema
 
 **Boas Práticas**
 - Evite propor solução antes de concordar sobre o problema.
@@ -48,14 +48,14 @@ Esta seção deve apresentar de forma clara e concisa o problema relacionado à 
 ***2. Identificar os Stakeholders que necessita de explicabilidade***
 
 **O que fazer**
-- Mapear pessoas/grupos/perfis que precisam receber, entender ou auditar explicações (veja Papéis)[../papeis].
+- Mapear pessoas/grupos/perfis que precisam receber, entender ou auditar explicações [veja Papéis](../papeis).
 - Para cada stakeholder, registrar: objetivos, que tipo de explicação precisa (local/global, técnico/resumido), nível de detalhe e canais (UI, relatório, API).
 
 **Quem**
 - Engenheiro de Requisitos (líder) com apoio do Gerente de Projeto.
 
 **Onde registrar**
-[Documento de Visão de Explicabilidade](../tarefas/definir.visao.md) → seção 3.1 - Resumo dos stakeholders
+[Documento de Visão de Explicabilidade](../artefatos/TEMPLATE-definir.visao.md) → seção 2.2 Declaração de Posicionamento do Produto e 3.1 - Resumo dos stakeholders
 
 **Boas Práticas**
 
@@ -64,7 +64,7 @@ Esta seção deve apresentar de forma clara e concisa o problema relacionado à 
 - Que formato de explicação cada perfil prefere (texto resumido, relatório técnico, visualização)?
 - Com que frequência precisam das explicações?
 
-***2. Adquirir consenso sobre o problema (não pule para soluções)***
+***3. Adquirir consenso sobre o problema (não pule para soluções)***
 
 **O que fazer**
 - Conduzir workshops, entrevistas para definir qual é o problema de explicabilidade (p. ex. “não entendemos porque o modelo me fornece um resultado positivo”).
@@ -75,17 +75,17 @@ Esta seção deve apresentar de forma clara e concisa o problema relacionado à 
 
 **Onde registrar**
 
-- [Documento de Visão da Explicabilidade](../tarefas/definir.visao.md) → seção 4.1 Necessidades e Funcionalidades 
+- [Documento de Visão da Explicabilidade](../artefatos/TEMPLATE-definir.visao.md) → seção 4.1 Necessidades e Funcionalidades 
 - [Itens gerados para Lista de Itens de Trabalho](Verificar)
 
 **Boas Práticas**
 
 -  [Guidaline: Técnica para obtenção de requisitos de explicabilidade](VERIFICAR)
 ---
-***3. Capturar um vocabulário comum (glossário)***
+***4. Capturar um vocabulário comum (glossário)***
 
 **O que fazer**
-- Construir um glossário com termos centrais: explicabilidade, interpretabilidade, local/global, saliência, confiança, rastreabilidade, etc.
+- Construir um glossário com termos centrais: explicabilidade, interpretabilidade, local/global, saliência, confiança, rastreabilidade, mapa de calor, etc.
 - Validar termos com stakeholders para evitar ambiguidade.
 
 **Quem**
@@ -93,26 +93,26 @@ Engenheiro de Requisitos
 
 **Onde registrar**
 
-[Glossário](../tarefas/#) e seção do [DRE](VERIFICAR).
+[Glossário](../artefatos/TEMPLATE-glossario.md) 
 
 **Boas práticas**
 O glossário é uma lista simples em ordem alfabética dos termos do domínio e suas definições.
 
 ---
-***4. Obter solicitações dos Stakeholders (elicitação focada em explicabilidade)***
+***5. Obtenha as solicitações dos Stakeholders (elicitação focada em explicabilidade)***
 
 **O que fazer**
 
-- Planejar técnicas de elicitação: entrevistas, questionários, card-sorting para formatos de explicação, protótipos de baixa fidelidade.
+- Planejar técnicas de elicitação: entrevistas, questionários, card-sorting para formatos de explicação, protótipos de baixa fidelidade. Se você puder se encontrar pessoalmente com os Stakeholders, então você poderá conduzir uma entrevista ou uma sessão de brainstorming. Esta colaboração face-a-face é extremamente valiosa e reduz as possibilidades da equipe de projeto não entender as necessidades dos Stakeholders.
 - Capturar requisitos funcionais e não funcionais de explicabilidade (quem, quando, como, nível de detalhe, tempo de resposta).
 
 **Quem**
-- Engenheiro de Requisitos (conduz), Stakeholders, UX Designer (para protótipos)(VALIDAR)
+- Engenheiro de Requisitos (conduz), Stakeholders e UX Designer (para protótipos)
 
 **Onde registrar**
 
-- [Descrever os Requisitos](../tarefas/documento-requisito.md) → Documento de Requisitos de Explicabilidade
-- Lista de Itens de Trabalho (cada requisito vira item rastreável)(VALIDAR)
+- [Descrever os Requisitos](../tarefas/documento-requisito.md) → 4.1 Necessidades e Funcionalidades
+- Lista de Itens de Trabalho [cada requisito vira item rastreável](VALIDAR)
 
 **Boas práticas**
 Se você puder se encontrar pessoalmente com os Stakeholders, então você poderá conduzir uma entrevista ou uma sessão de brainstorming. Esta colaboração face-a-face é extremamente valiosa e reduz as possibilidades da equipe de projeto não entender as necessidades dos Stakeholders. Alguns requisitos podem já ter sido documentados em uma [Lista de Itens de Trabalho existente](VERIFICAR). Isto pode normalmente ser usado como um sólido ponto de partida do qual um conjunto completo de requisitos de explicabilidade possa ser criado.
@@ -121,7 +121,7 @@ Qualquer requisito obtido durante esta etapa deve ser capturado na [Lista de Ite
 
 *Perguntas/artefatos*
 
-Que informação é necessário para você confiar numa decisão automática?
+Que informação é necessária para você confiar numa decisão automática?
 
 Exemplo: protótipo com explicação textual + visual para avaliar preferências.
 
@@ -135,7 +135,7 @@ Identificar interfaces onde as explicações aparecem (UI, API, relatórios) e e
 
 **Quem**
 
-Engenheiro de Requisitos + Arquiteto de Software + Gerente de Projeto.
+Engenheiro de Requisitos, Arquiteto de Software e Gerente de Projeto.
 
 **Onde registrar**
 
@@ -147,7 +147,10 @@ Engenheiro de Requisitos + Arquiteto de Software + Gerente de Projeto.
 
 **O que fazer**
 
-Levantar restrições: regulatórias (LGPD, requisitos de auditoria), econômicas (custo de geração de explicações), técnicas (modelo utilizados), temporais (latência aceitável), compatibilidade (plataformas).
+Levantar restrições: regulatórias (LGPD, requisitos de auditoria), técnicas (modelo utilizados), qualidade (qualidade esperada para as explicações)
+
+
+econômicas (custo de geração de explicações), , temporais (latência aceitável), compatibilidade (plataformas).
 
 **Quem**
 
