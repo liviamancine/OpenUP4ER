@@ -85,6 +85,11 @@ Esta seção deve apresentar de forma clara e concisa o problema relacionado à 
 ***4. Capturar um vocabulário comum (glossário)***
 
 **O que fazer**
+
+Cada projeto envolvendo sistemas de Aprendizado de Máquina possui um conjunto de termos específicos relacionados à explicabilidade que precisam ser compreendidos por todos os stakeholders. Um glossário de explicabilidade garante uma comunicação clara ao longo do projeto e evita interpretações divergentes sobre conceitos técnicos, éticos e funcionais.
+
+Trabalhe com os stakeholders para criar e manter um glossário que defina termos utilizados no contexto de explicabilidade, incluindo técnicas de interpretação, métricas, tipos de explicações, conceitos regulatórios e terminologia do domínio. Este glossário deve ser expandido e refinado continuamente durante todo o ciclo de vida do projeto, acompanhando a evolução do entendimento sobre o comportamento do modelo e das necessidades de explicação dos usuários.
+
 - Construir um glossário com termos centrais: explicabilidade, interpretabilidade, local/global, saliência, confiança, rastreabilidade, mapa de calor, etc.
 - Validar termos com stakeholders para evitar ambiguidade.
 
@@ -96,14 +101,17 @@ Engenheiro de Requisitos
 [Glossário](../artefatos/TEMPLATE-glossario.md) 
 
 **Boas práticas**
-O glossário é uma lista simples em ordem alfabética dos termos do domínio e suas definições.
+O glossário é uma lista simples em ordem alfabética dos termos do domínio e suas definições. É importante cobrir três dimensões fundamentais:
+- Terminologia técnica da área de explicabilidade - técnicas, métricas, tipos de explicação
+- Terminologia de stakeholders e papéis explicáveis - quem recebe explicações e como usa
+- Terminologia do domínio do problema: específica ao contexto de aplicação
 
 ---
 ***5. Obtenha as solicitações dos Stakeholders (elicitação focada em explicabilidade)***
 
 **O que fazer**
 
-- Planejar técnicas de elicitação: entrevistas, questionários, card-sorting para formatos de explicação, protótipos de baixa fidelidade. Se você puder se encontrar pessoalmente com os Stakeholders, então você poderá conduzir uma entrevista ou uma sessão de brainstorming. Esta colaboração face-a-face é extremamente valiosa e reduz as possibilidades da equipe de projeto não entender as necessidades dos Stakeholders.
+- Planejar técnicas de elicitação: entrevistas, questionários, card-sorting para formatos de explicação, protótipos de baixa fidelidade. 
 - Capturar requisitos funcionais e não funcionais de explicabilidade (quem, quando, como, nível de detalhe, tempo de resposta).
 
 **Quem**
