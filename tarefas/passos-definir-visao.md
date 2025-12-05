@@ -147,18 +147,15 @@ Engenheiro de Requisitos, Arquiteto de Software e Gerente de Projeto.
 
 **O que fazer**
 
-Levantar restrições: regulatórias (LGPD, requisitos de auditoria), técnicas (modelo utilizados), qualidade (qualidade esperada para as explicações)
-
-
-econômicas (custo de geração de explicações), , temporais (latência aceitável), compatibilidade (plataformas).
+Levantar restrições: regulatórias (LGPD, requisitos de auditoria), técnicas (modelo utilizados), qualidade (qualidade esperada para as explicações), econômicas (custo de geração de explicações), temporais (latência aceitável), compatibilidade (plataformas).
 
 **Quem**
 
-Engenheiro de Requisitos + Gerente de Projeto + Arquiteto + especialista em ética e regulação (se houver).
+Engenheiro de Requisitos, Gerente de Projeto, Arquiteto e especialista em ética e regulação (se houver).
 
 Onde registrar
 
-[Documento de Visão da Explicabilidade](../tarefas/definir.visao.md): seção 4.1 Necessidades e Funcionalidade e 5. Outros Requisitos do Produto (Explicabilidade)
+[Documento de Visão da Explicabilidade](../tarefas/documento-requisito.md) → seção 4.1 Necessidades e Funcionalidade e 5. Outros Requisitos do Produto (Explicabilidade)
 
 
 ---
@@ -167,7 +164,7 @@ Onde registrar
 **O que fazer**
 
 - Fazer revisão formal da Visão da Explicabilidade com stakeholders e time técnico; coletar aprovações, feedbacks e registrar decisões.
-- Ajustar [Documento de Visão de Explicabilidade](../tarefas/definir-visao.md) e [Lista de Itens](VALIDAR) conforme consenso.
+- Ajustar [Documento de Visão de Explicabilidade](../tarefas/documento-requisito.md), conforme consenso.
 
 **Quem**
 
@@ -186,15 +183,14 @@ Engenheiro de Requisitos (facilitador), Stakeholders, Gerente de Projeto, Arquit
 ## Informações Adicionais
 
 **Listas de Verificação:**  
-- [Documento de Visão de Explicabilidade](../tarefas/definir-visao.md)
+- [Documento de Visão de Explicabilidade](../tarefas/documento-requisito.md) 
 
 **Conceitos:**  
 - [Requisitos](#)
 
   **Diretrizes:**  
-- [Guidaline: Técnica para obtenção de requisitos de explicabilidade](VERIFICAR)
-- [Glossário](glossario-explicabilidade.md)
-- [Encontrar e Descrever os Requisitos](VERIFICAR)
+- [Revisão eficaz de Requisitos](#)
+- [Técnicas Para Obtenção de Requisitos de Explicabilidade](#)
 ---
 **Referências:**  
 - [Link para o OpenUP Original](file:///C:/Users/Livia%20Mancine/Downloads/OpenUP/Publish/openup/tasks/define_vision_9D36CF2F.html)
