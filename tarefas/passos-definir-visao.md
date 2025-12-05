@@ -27,6 +27,23 @@ A solução é proposta para abordar o problema de falta de confiança, transpar
   - [Visão Explicabilidade](../artefatos/visao-explicabilidade.md)
 ---
 ## Passos
+***1. Identificar o Problema***
+
+**O que fazer**
+Identificar o problema que o projeto visa responder.
+Esta seção deve apresentar de forma clara e concisa o problema relacionado à explicabilidade em sistemas de aprendizado de máquina que o projeto pretende resolver. O objetivo é fornecer uma compreensão compartilhada entre os stakeholders sobre a motivação para incorporar explicabilidade como um requisito não funcional essencial.
+
+
+Boas Práticas
+
+Evite propor solução antes de concordar sobre o problema.
+
+Trabalhe com exemplos reais do domínio para aumentar clareza.
+
+Garanta que todos os stakeholders entendam os termos usados (relacionar ao glossário).
+
+Atualize a declaração conforme forem surgindo novas informações nas iterações.
+
 ***1. Identificar os Stakeholders que necessita de explicabilidade***
 
 **O que fazer**
