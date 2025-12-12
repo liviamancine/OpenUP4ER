@@ -27,7 +27,7 @@ A solução é proposta para abordar o problema de falta de confiança, transpar
   - [Visão Explicabilidade](../artefatos/TEMPLATE-definir.visao.md)
 ---
 ## Passos
-***1. Identificar o Problema***
+***1. Definir o Problema***
 
 **O que fazer**
 
