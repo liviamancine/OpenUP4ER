@@ -153,15 +153,23 @@ Exemplo: protótipo com explicação textual + visual para avaliar preferências
 
 Especificar até onde a explicabilidade deve chegar: quais decisões, quais módulos, para quais stakeholders.
 Identificar interfaces onde as explicações aparecem (UI, API, relatórios) e entradas/saídas relacionadas.
+Essa delimitação estabelece o escopo da explicabilidade, distinguindo os elementos do sistema que exigem mecanismos explicativos daqueles que não fazem parte do requisito.
 
+Devem ser identificadas:
+- As decisões, recomendações ou previsões do sistema que requerem explicação
+- Os perfis de stakeholders que receberão explicações (por exemplo, usuários finais, especialistas de domínio, auditores)
+- Os tipos de explicação esperados (local, global, textual, visual, simbólica)
+- Os pontos de interação onde a explicação será apresentada
+
+As informações de entrada e saída envolvidas no processo explicativo, incluindo dados, atributos relevantes e resultados do modelo.
 **Quem**
 
 Engenheiro de Requisitos, Arquiteto de Software e Gerente de Projeto.
 
 **Onde registrar**
 
-- Veja Tarefa: [Encontrar e Descrever os Requisitos](VERIFICAR).
-- [História de Usuários](#) é uma técnica que pode ser útil na definição do limite da Explicabilidade.
+- Veja Tarefa: [Checklist para delimitar explicabilidade](../tarefas/checklist-explicabilidade)
+
 ---
 
 ***6. Identificar as restrições no sistema (impactos para explicabilidade)***
