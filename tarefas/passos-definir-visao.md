@@ -168,7 +168,7 @@ Engenheiro de Requisitos, Arquiteto de Software e Gerente de Projeto.
 
 **Onde registrar**
 
-- Veja Tarefa: [Checklist para delimitar explicabilidade](../tarefas/checklist-explicabilidade)
+- Veja Tarefa: [Checklist para delimitar explicabilidade](../tarefas/checklist-explicabilidade.md)
 
 ---
 
