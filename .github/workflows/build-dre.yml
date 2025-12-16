@@ -29,6 +29,11 @@ jobs:
           cat artefatos/TEMPLATE-definir-visao.md >> artefatos/DRE.md
           echo "" >> artefatos/DRE.md
 
+          echo "## Limite da Explicabilidade >> artefatos/DRE.md
+          echo "" >> artefatos/DRE.md
+          cat tarefas/checklist-explicabilidade.md >> artefatos/DRE.md
+          echo "" >> artefatos/DRE.md
+
           echo "## 2. Documento: Glossário" >> artefatos/DRE.md
           echo "" >> artefatos/DRE.md
           cat artefatos/TEMPLATE-glossario.md >> artefatos/DRE.md
