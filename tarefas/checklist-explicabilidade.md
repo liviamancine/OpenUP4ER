@@ -16,7 +16,7 @@
 
 **Tipo e Forma de Explicação**
 
--Explicação local, global ou ambas?
+- Explicação local, global ou ambas?
 - Forma: textual, visual, numérica, simbólica?
 - Linguagem técnica ou acessível?
 
@@ -32,7 +32,7 @@
 
 **Restrições**
 
--Existem limitações técnicas para explicar certos modelos?
+- Existem limitações técnicas para explicar certos modelos?
 - Há restrições legais ou regulatórias?
 - O custo computacional da explicação é aceitável?
 
