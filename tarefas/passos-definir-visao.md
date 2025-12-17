@@ -1,7 +1,7 @@
 # Tarefa: Definir a Visão (Passos)
 
 **Descrição:**  
-Definir a visão da explicabilidade para o sistema, identificando o problema relacionado à ausência ou insuficiência de explicações e descrevendo os aspectos de confiança e transparência e compreensão esperados, com base nas necessidades e solicitações dos Stakeholders que dependem da compreensão das decisões do modelo.
+Definir a visão da explicabilidade, em alto nível, e os problemas relacionados à compreensão das decisões do sistema de AM, os stakeholders afetados, os objetivos da explicabilidade e os limites iniciais que guiarão as iterações futuras.
 
 [Disciplina: Requisitos](requisitos.md)
 
@@ -25,6 +25,8 @@ A solução é proposta para abordar o problema de falta de confiança, transpar
   - [Glossário](#)
   - [Lista de Item de Trabalhos](#)
   - [Visão Explicabilidade](../artefatos/TEMPLATE-definir.visao.md)
+- **Saída Principal**
+  - [Documento de Requisitos de Explicabilidade - DRE](../artefatos/DRE.md)
 ---
 ## Passos
 ***1. Definir o Problema***
