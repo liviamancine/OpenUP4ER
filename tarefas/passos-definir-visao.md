@@ -29,27 +29,28 @@ A solução é proposta para abordar o problema de falta de confiança, transpar
   - [Documento de Requisitos de Explicabilidade - DRE](../artefatos/DRE.md)
 ---
 ## Passos
-***1. Definir o Problema***
+***1. Consolidar o Problema de Explicabilidade***
 
 **O que fazer**
 
-Identificar o problema que o projeto visa responder.
+Consolidar e formalizar o problema de explicabilidade previamente reconhecido no projeto.
 Esta seção deve apresentar de forma clara e concisa o problema relacionado à explicabilidade em sistemas de Aprendizado de Máquina que o projeto pretende resolver. O objetivo é fornecer uma compreensão compartilhada entre os stakeholders sobre a motivação para incorporar explicabilidade como um requisito não funcional essencial.
 
 **Quem**
 
-- Engenheiro de Requisitos (líder) com apoio do Gerente de Projeto.
+- Engenheiro de Requisitos (líder), com apoio do Gerente de Projeto e validação dos stakholders-chave.
 
 **Onde registrar**
 
-[Documento de Visão de Explicabilidade](../artefatos/TEMPLATE-definir.visao.md) → seção 1 - Introdução e 2.1 - Declaração do Problema
+[Documento de Visão de Explicabilidade](../artefatos/TEMPLATE-definir.visao.md) → seção 1 - Consolidar o Problema de Explicabilidade e 2.1 - Declaração do Problema
 
 **Boas Práticas**
 
+- Tratar esta atividade como formalização, não descoberta inicial.
 - Evite propor solução antes de concordar sobre o problema.
 - Trabalhe com exemplos reais do domínio para aumentar clareza.
-- Garanta que todos os stakeholders entendam os termos usados ([relacionar ao glossário](TEMPLATE-glossario.md)).
-- Atualize a declaração conforme forem surgindo novas informações nas iterações.
+- Garantir alinhamento terminológico com o glossário de explicabilidade ([relacionar ao glossário](TEMPLATE-glossario.md)).
+- Revisar a declaração do problema ao final de cada iteração, se necessário.
 
 ***2. Identificar os Stakeholders que necessita de explicabilidade***
 
