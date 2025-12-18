@@ -3,6 +3,11 @@
 **Descrição:**  
 Definir a visão da explicabilidade, em alto nível, e os problemas relacionados à compreensão das decisões do sistema de AM, os stakeholders afetados, os objetivos da explicabilidade e os limites iniciais que guiarão as iterações futuras.
 
+Observação:
+- o problema de explicabilidade já foi reconhecido fora do OpenUP4RE (escopo do projeto)
+- o OpenUP4RE começa quando há a necessidade explícita de explicabilidade
+- o foco inicial é alinhamento entre stakeholders, necessidades explicativas e contexto.
+
 [Disciplina: Requisitos](requisitos.md)
 
 **Objetivo**
@@ -29,12 +34,16 @@ A solução é proposta para abordar o problema de falta de confiança, transpar
   - [Documento de Requisitos de Explicabilidade - DRE](../artefatos/DRE.md)
 ---
 ## Passos
-***1. Consolidar o Problema de Explicabilidade***
+***1. Identificar Stakeholders e Necessidades de Explicabilidade***
 
 **O que fazer**
 
-Consolidar e formalizar o problema de explicabilidade previamente reconhecido no projeto.
-Esta seção deve apresentar de forma clara e concisa o problema relacionado à explicabilidade em sistemas de Aprendizado de Máquina que o projeto pretende resolver. O objetivo é fornecer uma compreensão compartilhada entre os stakeholders sobre a motivação para incorporar explicabilidade como um requisito não funcional essencial.
+Formalizar e alinhar a necessidade de explicabilidade já reconhecida no projeto, identificando quais stakeholders precisam de explicações, por que precisam, e que tipo de explicação é necessária no contexto do sistema de Aprendizado de Máquina.
+
+Nesta etapa, o objetivo não é descobrir o problema do projeto, mas:
+- consolidar o problema de explicabilidade associado ao uso do sistema
+- identificar os stakeholders que necessitam compreender, auditar ou validar as decisões do modelo
+- caracterizar as necessidades explicativas iniciais, que irão orientar a Visão da Explicabilidade
 
 **Quem**
 
@@ -42,7 +51,10 @@ Esta seção deve apresentar de forma clara e concisa o problema relacionado à 
 
 **Onde registrar**
 
-[Documento de Visão de Explicabilidade](../artefatos/TEMPLATE-definir.visao.md) → seção 1 - Consolidar o Problema de Explicabilidade e 2.1 - Declaração do Problema
+[Documento de Visão de Explicabilidade](../artefatos/TEMPLATE-definir.visao.md):
+- Seção 2.1 — Declaração do Problema de Explicabilidade
+- Seção 2.2 — Declaração de Posicionamento do Produto
+- Seção 3.1 — Resumo dos Stakeholders
 
 **Boas Práticas**
 
