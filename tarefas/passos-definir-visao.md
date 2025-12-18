@@ -22,11 +22,12 @@ A solução é proposta para abordar o problema de falta de confiança, transpar
 
 **Entradas**  
 - **Obrigatório:**  
-  - Nenhum
+  - Escopo do Projeto
+  - Necessidade da Explicabilidade Reconhecida
 - **Opcional:**  
   - [Lista de Item de Trabalho](#) 
   - [Visão Explicabilidade](../artefatos/TEMPLATE-definir.visao.md)
-- **Saídas:**  
+- **Saídas Intermediárias:**  
   - [Glossário](#)
   - [Lista de Item de Trabalhos](#)
   - [Visão Explicabilidade](../artefatos/TEMPLATE-definir.visao.md)
@@ -52,41 +53,24 @@ Nesta etapa, o objetivo não é descobrir o problema do projeto, mas:
 **Onde registrar**
 
 [Documento de Visão de Explicabilidade](../artefatos/TEMPLATE-definir.visao.md):
-- Seção 2.1 — Declaração do Problema de Explicabilidade
-- Seção 2.2 — Declaração de Posicionamento do Produto
+- Seção 2.2 — Declaração de Posicionamento da Explicabilidade
 - Seção 3.1 — Resumo dos Stakeholders
 
 **Boas Práticas**
 
-- Tratar esta atividade como formalização, não descoberta inicial.
+- Tratar esta atividade como ponto de partida do OpenUP4RE, assumindo que a necessidade de explicabilidade já existe.
 - Evite propor solução antes de concordar sobre o problema.
 - Trabalhe com exemplos reais do domínio para aumentar clareza.
 - Garantir alinhamento terminológico com o glossário de explicabilidade ([relacionar ao glossário](TEMPLATE-glossario.md)).
 - Revisar a declaração do problema ao final de cada iteração, se necessário.
 
-***2. Identificar os Stakeholders que necessita de explicabilidade***
-
-**O que fazer**
-
-- Mapear pessoas/grupos/perfis que precisam receber, entender ou auditar explicações [veja Papéis](../papeis).
-- Para cada stakeholder, registrar: objetivos, que tipo de explicação precisa (local/global, técnico/resumido), nível de detalhe e canais (UI, relatório, API).
-
-**Quem**
-
-- Engenheiro de Requisitos (líder) com apoio do Gerente de Projeto.
-
-**Onde registrar**
-
-[Documento de Visão de Explicabilidade](../artefatos/TEMPLATE-definir.visao.md) → seção 2.2 Declaração de Posicionamento do Produto e 3.1 - Resumo dos stakeholders
-
-**Boas Práticas**
-
-*Perguntas úteis*
-- Quem precisa entender as decisões do sistema? Por quê?
+  *Perguntas úteis*
+- Quem precisa entender as decisões do sistema?
+- Para qual finalidade (uso, validação, auditoria, pesquisa)?
 - Que formato de explicação cada perfil prefere (texto resumido, relatório técnico, visualização)?
 - Com que frequência precisam das explicações?
 
-***3. Adquirir consenso sobre o problema (não pule para soluções)***
+***2. Adquirir consenso sobre o problema (não pule para soluções)***
 
 **O que fazer**
 
@@ -106,7 +90,7 @@ Nesta etapa, o objetivo não é descobrir o problema do projeto, mas:
 
 -  [Guidaline: Técnica para obtenção de requisitos de explicabilidade](VERIFICAR)
 ---
-***4. Capturar um vocabulário comum (glossário)***
+***3. Capturar um vocabulário comum (glossário)***
 
 **O que fazer**
 
@@ -133,7 +117,7 @@ O glossário é uma lista simples em ordem alfabética dos termos do domínio e 
 - Terminologia do domínio do problema: específica ao contexto de aplicação
 
 ---
-***5. Obtenha as solicitações dos Stakeholders (elicitação focada em explicabilidade)***
+***4. Obtenha as solicitações dos Stakeholders (elicitação focada em explicabilidade)***
 
 **O que fazer**
 
