@@ -161,6 +161,7 @@ Devem ser identificadas:
 - Os pontos de interação onde a explicação será apresentada
 
 As informações de entrada e saída envolvidas no processo explicativo, incluindo dados, atributos relevantes e resultados do modelo.
+
 **Quem**
 
 Engenheiro de Requisitos, Arquiteto de Software e Gerente de Projeto.
