@@ -5,7 +5,7 @@
 
 ---
 
-## 1. Definição do Problema
+## 1. Definição da Explicabilidade
 Este documento apresenta uma visão geral do requisito de explicabilidade.
 
 Sugestão:
