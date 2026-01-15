@@ -58,7 +58,7 @@ Detalhar o contexto de uso: onde os usuários interagem com explicações, neces
 – Restrições (regulatórias, de tempo real, acessibilidade).
 – Integração necessária com sistemas existentes.
 
-## 4. Visão Geral do Produto 
+## 4. Visão Geral da Explicabilidade 
 
 ### 4.1 Necessidades e Funcionalidades 
 
