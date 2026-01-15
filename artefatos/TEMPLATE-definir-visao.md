@@ -72,7 +72,7 @@ Evite detalhes de design. Mantenha as descrições das funcionalidades em um ní
 | **Garantir aderência a normas éticas e legais**| Alta | Ética e Conformidade legal | Versão 1|
 
 
-## 5. Outros Requisitos do Produto (Explicabilidade)
+## 5. Requisitos Adicionais relacionados á Explicabilidade
 
 Esta seção descreve requisitos adicionais relacionados à explicabilidade que não foram capturados como aspectos de funcionalidade em um nível geral. Inclui padrões aplicáveis, requisitos técnicos, restrições de design, dependências, requisitos de documentação e critérios de qualidade relacionados às explicações geradas pelo sistema.
 
