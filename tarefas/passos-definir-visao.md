@@ -66,9 +66,9 @@ Nesta etapa, o objetivo não é descobrir o problema do projeto, mas:
 
   *Perguntas úteis*
 - Quem precisa entender as decisões do sistema?
-- Para qual finalidade (uso, validação, auditoria, pesquisa)?
-- Que formato de explicação cada perfil prefere (texto resumido, relatório técnico, visualização)?
-- Com que frequência precisam das explicações?
+- Para qual finalidade (uso operacional, validação, auditoria, pesquisa, conformidade)?
+- Em quais situações a falta de explicabilidade causa problemas?
+
 
 ***2. Adquirir consenso sobre o problema (não pule para soluções)***
 
