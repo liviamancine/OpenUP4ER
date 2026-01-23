@@ -143,7 +143,14 @@ Qualquer requisito obtido durante esta etapa deve ser capturado na [Lista de Ite
 
 Que informação é necessária para você confiar numa decisão automática?
 
-Exemplo: protótipo com explicação textual + visual para avaliar preferências.
+O usuário consegue compreender por que o sistema produziu determinada decisão, recomendação ou classificação?
+
+Quais informações são necessárias para que o usuário entenda os fatores mais relevantes envolvidos na decisão?
+
+O stakeholder consegue justificar uma decisão tomada com apoio do sistema, caso seja questionado?
+
+As explicações fornecem elementos suficientes para documentar e sustentar decisões em contextos formais ou administrativos?
+
 
 ---
 ***5. Definir os limites da Explicabilidade***
