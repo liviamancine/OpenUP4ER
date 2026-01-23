@@ -141,19 +141,28 @@ Qualquer requisito obtido durante esta etapa deve ser capturado na [Lista de Ite
 
 *Perguntas/artefatos*
 
-Que informação é necessária para você confiar numa decisão automática?
-
-O usuário consegue compreender por que o sistema produziu determinada decisão, recomendação ou classificação?
+Que informação é necessária para o usuário confiar numa decisão automática?
 
 Quais informações são necessárias para que o usuário entenda os fatores mais relevantes envolvidos na decisão?
 
-O stakeholder consegue justificar uma decisão tomada com apoio do sistema, caso seja questionado?
-
-As explicações fornecem elementos suficientes para documentar e sustentar decisões em contextos formais ou administrativos?
-
 
 ---
-***5. Definir os limites da Explicabilidade***
+***5. Identificar as restrições no sistema (impactos para explicabilidade)***
+
+**O que fazer**
+
+Levantar restrições: regulatórias (LGPD, requisitos de auditoria), técnicas (modelo utilizados), qualidade (qualidade esperada para as explicações), econômicas (custo de geração de explicações), temporais (latência aceitável), compatibilidade (plataformas).
+
+**Quem**
+
+Engenheiro de Requisitos, Gerente de Projeto, Arquiteto e especialista em ética e regulação (se houver).
+
+**Onde registrar**
+
+[Documento de Visão da Explicabilidade](../tarefas/documento-requisito.md) → seção 4.1 Necessidades e Funcionalidade e 5. Outros Requisitos do Produto (Explicabilidade)
+
+---
+***6. Definir os limites da Explicabilidade***
 
 **O que fazer**
 
@@ -176,23 +185,6 @@ Engenheiro de Requisitos, Arquiteto de Software e Gerente de Projeto.
 **Onde registrar**
 
 - Veja Tarefa: [Checklist para delimitar explicabilidade](../tarefas/checklist-explicabilidade.md)
-
----
-
-***6. Identificar as restrições no sistema (impactos para explicabilidade)***
-
-**O que fazer**
-
-Levantar restrições: regulatórias (LGPD, requisitos de auditoria), técnicas (modelo utilizados), qualidade (qualidade esperada para as explicações), econômicas (custo de geração de explicações), temporais (latência aceitável), compatibilidade (plataformas).
-
-**Quem**
-
-Engenheiro de Requisitos, Gerente de Projeto, Arquiteto e especialista em ética e regulação (se houver).
-
-**Onde registrar**
-
-[Documento de Visão da Explicabilidade](../tarefas/documento-requisito.md) → seção 4.1 Necessidades e Funcionalidade e 5. Outros Requisitos do Produto (Explicabilidade)
-
 
 ---
 ***7. Obter consenso (revisão da Visão)***
