@@ -76,6 +76,9 @@ Evite detalhes de design. Mantenha as descrições das funcionalidades em um ní
 
 Esta seção descreve requisitos adicionais relacionados à explicabilidade que não foram capturados como aspectos de funcionalidade em um nível geral. Inclui padrões aplicáveis, requisitos técnicos, restrições de design, dependências, requisitos de documentação e critérios de qualidade relacionados às explicações geradas pelo sistema.
 
+O que fazer?
+
+Levantar, analisar e documentar restrições regulatórias, técnicas, de qualidade, econômicas, temporais e de compatibilidade que impactam a explicabilidade, consolidando-as na seção “Requisitos Adicionais relacionados à Explicabilidade” do Documento de Visão.
 ---
 
 ### 5.1 Padrões, Normas e Regulamentos Aplicáveis
