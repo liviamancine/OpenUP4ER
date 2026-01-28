@@ -16,7 +16,7 @@ A solução é proposta para abordar o problema de falta de confiança, transpar
 ## Relacionamentos
 
 **Papéis**  
-- **Responsável:** [Engenheiro de Requisitos](../papeis/engenheiro-requisitos.md)  
+- **Executor Principal:** [Engenheiro de Requisitos](../papeis/engenheiro-requisitos.md)  
 - **Executores Adicionais:** [Arquiteto de Software](../papeis/arquiteto-software.md), [Gerente de Projetos](../papeis/gerente-projeto.md), 
 [Especialista Ética](../papeis/especialista-etica-regulacao) e [Stakeholders](../papeis/stakeholders)
 
