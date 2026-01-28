@@ -10,6 +10,7 @@
 
 
 
-| **Fluxo de Trabalho de Referência** | <div style="text-align: justify;">• Executar Tarefas Contínuas<br>• Identificar e Refinar os Requisitos<br>• Iniciar o Projeto</div> |
+| **Fluxo de Trabalho de Referência** | <div align="justify">• Executar Tarefas Contínuas<br>• Identificar e Refinar os Requisitos<br>• Iniciar o Projeto</div> |
 |------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| **Tarefas**                         | <div style="text-align: justify;">• Definir a Visão<br>• Detalhar os Requisitos<br>• Encontrar e Descrever os Requisitos</div> |
+| **Tarefas**                         | <div align="justify">• Definir a Visão<br>• Detalhar os Requisitos<br>• Encontrar e Descrever os Requisitos</div> |
+
