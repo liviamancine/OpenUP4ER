@@ -50,7 +50,7 @@ a alocação desses requisitos às iterações;
 o impacto da explicabilidade no esforço, custo e cronograma.
 
 
-| **Informações Adicionais**  | |
+| **Informações Adicionais**         |                           |
 |------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
 | **Lista de Verificação**                         | <div align="justify">• [Qualidade de Bons Requisitos](?)<br>• [Requisitos Supementares](?)<br>•[Visão](?)</div> |
 | **Conceitos**                                    | <div align="justify">• [Atributos de Requisitos](?)<br>• [Capacidade de Rastreamento](?)<br>• [Requisitos](?)<br>•[Requisitos Suplementares](?)</div> |
