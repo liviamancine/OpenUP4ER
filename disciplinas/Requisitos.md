@@ -6,6 +6,8 @@
 
 | Fluxo de Trabalho de Referência  | - Executar Tarefas Contínuas           |
                                      - Identificar e Refinar os Requisitos
+                                     - Iniciar o Projeto
 
 |----------------------------------|------------------------------------------|
-| Tarefas                          | Definar a Visão                                   |
+| Tarefas                          | - Definar a Visão           
+|                                  | - Detalhar os Requisitos                 |  
