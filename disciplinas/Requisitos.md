@@ -15,50 +15,47 @@
 
 O propósito desta disciplina é:
 
-Entender o problema a ser resolvido, considerando decisões automatizadas ou apoiadas por modelos de Aprendizado de Máquina que demandam explicação.
-
-Entender as necessidades dos stakeholders que demandam do requisito de explicabilidade
-
-Definir os requisitos de explicabilidade (o que deve ser explicado, para quê e para quem).
-
-Definir os limites (escopo) da explicabilidade, identificando quais decisões, saídas que devem ser explicáveis e quais estão fora do escopo.
-
-Identificar interfaces externas ao sistema que podem interferir no requisito de explicabilidade.
-
-Identificar restrições técnicas, tais como regulamentos, desempenho, qualidade das explicações, dependências.
-
-Fornecer a base para o planejamento das iterações, considerando a evolução incremental dos mecanismos de explicação.
-
-Fornecer a base inicial para estimativas de custo e cronograma, incluindo esforço adicional para implementação, validação e manutenção da explicabilidade.
+- Entender o problema a ser resolvido, considerando decisões automatizadas ou apoiadas por modelos de Aprendizado de Máquina que demandam explicação.
+- Entender as necessidades dos stakeholders que demandam do requisito de explicabilidade
+- Definir os requisitos de explicabilidade (o que deve ser explicado, para quê e para quem)
+- Definir os limites (escopo) da explicabilidade, identificando quais decisões, saídas que devem ser explicáveis e quais estão fora do escopo
+- Identificar interfaces externas ao sistema que podem interferir no requisito de explicabilidade
+- Identificar restrições técnicas, tais como regulamentos, desempenho, qualidade das explicações, dependências
+- Fornecer a base para o planejamento das iterações, considerando a evolução incremental dos mecanismos de explicação
+- Fornecer a base inicial para estimativas de custo e cronograma, incluindo esforço adicional para implementação, validação e manutenção da explicabilidade.
 
 Para atingir essas metas, é essencial compreender claramente a definição do problema e o escopo da solução que está tentando resolver. Devem ser identificados os [stakeholders](../papeis) e caracterizadas suas necessidades de explicação, considerando diferentes níveis de conhecimento técnico.                        | 
 
 
-Elicitação, Análise e Especificação de Requisitos de Explicabilidade
+Uma vez acordado o problema a ser resolvido, os requisitos de explicabilidade são elicitados, analisados e especificados.
 
-Uma vez acordado o problema a ser resolvido:
+A disciplina de Requisitos relaciona-se com as demais disciplinas da seguinte forma:
 
-Os requisitos de explicabilidade são elicitados, identificando:
+- [Arquitetura e Desenvolvimento](?) utilizam os requisitos de explicabilidade para:
+  selecionar modelos e técnicas compatíveis;
+  definir componentes de geração e apresentação de explicações.
 
-decisões que requerem explicação;
+- [Teste](?) valida o sistema não apenas quanto à correção funcional, mas também quanto à:
+consistência;
+compreensibilidade;
+adequação das explicações aos stakeholders.
 
-tipos de explicação (local, global, textual, visual, comparativa);
+- [Gestão de Configuração e Mudança](?) fornece os mecanismos para:
+controlar versões de requisitos de explicabilidade;
+rastrear mudanças decorrentes de atualizações do modelo ou do contexto regulatório.
 
-nível de detalhe adequado a cada stakeholder.
+- [Gestão de Projeto](?) planeja o projeto considerando:
+a priorização de requisitos de explicabilidade;
+a alocação desses requisitos às iterações;
+o impacto da explicabilidade no esforço, custo e cronograma.
 
-Esses requisitos são organizados e analisados, avaliando viabilidade técnica, impacto no sistema e alinhamento regulatório.
 
-Os requisitos são validados com stakeholders relevantes, assegurando que as explicações sejam compreensíveis, úteis e suficientes.
+| **Informações Adicionais**  | |
+|------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| **Lista de Verificação**                         | <div align="justify">• Qualidade de Bons Requisitos<br>• Requisitos Supementares<br>•Visão</div> |
+| **Conceitos** | <div align="justify">• Atributos de Requisitos<br>• Capacidade de Rastreamento<br>• Requisitos<br>•Requisitos Suplementares</div> |
+| **Diretrizes** | <div align="justify">• Aramdilhas dos Requisitos<br>• Escrevendo bons requisitos<br>• Requisitos Suplementares<br>• Revisão Eficaz de Requisiots<br>• Técnicas para Obtenção de Requisitos</div> |
 
-Os requisitos são especificados de forma clara, rastreável e integrada aos demais requisitos do sistema.
-
-Durante todo o ciclo de vida do projeto, as mudanças nos requisitos de explicabilidade são gerenciadas, considerando:
-
-evolução dos modelos;
-
-alterações regulatórias;
-
-novas demandas de transparência ou auditoria.
 
 
 
@@ -73,3 +70,4 @@ novas demandas de transparência ou auditoria.
 # Referência
 
 [Link para OpenUP original](file:///C:/Users/Livia%20Mancine/Downloads/OpenUP/Publish/openup/disciplines/requirements_4467C860.html)
+[Link OpenUP](https://www.utm.mx/~caff/doc/OpenUPWeb/openup/disciplines/requirements_4467C860.html)
