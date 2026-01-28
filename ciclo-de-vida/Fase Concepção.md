@@ -18,7 +18,7 @@ O DRE é iniciado nesta fase, contendo:
 4. Propor soluções candidatas
    Avaliar abordagens de explicabilidade e arquiteturas adequadas e sua viabilidade (ex.: modelos explicáveis vs. pós-hoc - VALIDAR).
 
-5. Analisar riscos e custos associados
+5. Analisar riscos e custos associados (VALIDAR CUSTOS)
    Identificar riscos técnicos, éticos, regulatórios e operacionais relacionados à ausência de explicabilidade.
 
 ---
