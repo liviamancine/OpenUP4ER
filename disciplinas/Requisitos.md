@@ -5,7 +5,7 @@
 ### Relacionamentos
 
  
-| **Relacionamentos**  |
+| **Relacionamentos**  | |
 |------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
 | **Tarefas**                         | <div align="justify">• Definir a Visão<br>• Detalhar os Requisitos<br>• Encontrar e Descrever os Requisitos</div> |
 | **Fluxo de Trabalho de Referência** | <div align="justify">• Executar Tarefas Contínuas<br>• Identificar e Refinar os Requisitos<br>• Iniciar o Projeto</div> |
