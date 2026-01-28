@@ -70,4 +70,5 @@ o impacto da explicabilidade no esforço, custo e cronograma.
 # Referência
 
 [Link para OpenUP original](file:///C:/Users/Livia%20Mancine/Downloads/OpenUP/Publish/openup/disciplines/requirements_4467C860.html)
+
 [Link OpenUP](https://www.utm.mx/~caff/doc/OpenUPWeb/openup/disciplines/requirements_4467C860.html)
