@@ -12,6 +12,15 @@
 
 
 
+<table>
+  <tr>
+    <th colspan="2">Relacionamentos</th>
+  </tr>
+  <tr>
+    <td><b>Tarefas</b></td>
+    <td>Definir a Visão<br>Detalhar os Requisitos</td>
+  </tr>
+</table>
 
 
 
