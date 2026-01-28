@@ -4,7 +4,7 @@
 
 ### Relacionamentos
 
-| **Fluxo de Trabalho de Referência** | • Executar Tarefas Contínuas<br>• Identificar e Refinar os Requisitos<br>• Iniciar o Projeto |
+| **Fluxo de Trabalho de Referência** | <div style="text-align: justify;">• Executar Tarefas Contínuas<br>• Identificar e Refinar os Requisitos<br>• Iniciar o Projeto</div> | |
 |------------------------------------ |--------------------------------------------------------------------------------------------- |
 | **Tarefas**                         | • Definir a Visão<br>• Detalhar os Requisitos<br>• Encontrar e Descrever os Requisitos       |
 
