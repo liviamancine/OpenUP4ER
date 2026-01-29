@@ -15,8 +15,7 @@ Os requisitos de explicabilidade devem definir claramente os pontos de decisão 
 
 **Papéis**  
 - **Executor Principal:** [Engenheiro de Requisitos](../papeis/engenheiro-requisitos.md)  
-- **Executores Adicionais:** [Arquiteto de Software](../papeis/arquiteto-software.md), [Gerente de Projetos](../papeis/gerente-projeto.md), 
-[Especialista Ética](../papeis/especialista-etica-regulacao) e [Stakeholders](../papeis/stakeholders)
+- **Executores Adicionais:** [Arquiteto de Software](../papeis/arquiteto-software.md), [Desenvolvedor](../papeis/desenvolvedor.md), [Stakeholders](../papeis/stakeholders) e [Testador](testador.md)
 
 **Entradas**  
 - **Obrigatório:**  
