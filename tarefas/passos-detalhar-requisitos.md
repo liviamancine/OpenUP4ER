@@ -3,12 +3,13 @@
 [Disciplina: Requisitos](requisitos.md)
 
 
-**Descrição:**  
-Descrever como detalhar os requisitos de explicabilidade associados a sistemas baseados em Aprendizado de Máquina. Essa tarefa envolve a especificação clara e estruturada do que deve ser explicado, para quem, em quais situações e por meio de quais mecanismos, garantindo que os pontos de decisão relevantes do sistema sejam explicáveis de acordo com as necessidades e expectativas específicas dos stakeholders.
+## Descrição  
 
-**Objetivo**
+Esta tarefa Descreve como detalhar os requisitos de explicabilidade associados a sistemas baseados em Aprendizado de Máquina. Essa tarefa envolve a especificação clara e estruturada do que deve ser explicado, para quem, em quais situações e por meio de quais mecanismos, garantindo que os pontos de decisão relevantes do sistema sejam explicáveis de acordo com as necessidades e expectativas específicas dos stakeholders.
+
+## Objetivo
+
 A finalidade desta tarefa é descrever um ou mais requisitos de explicabilidade com nível de detalhe suficiente para: validar a compreensão sobre o que deve ser explicado pelo sistema, assegurar o alinhamento com as expectativas dos stakeholders, e permitir o início do desenvolvimento e da integração dos mecanismos de explicação ao sistema baseado em AM.
-
 Os requisitos de explicabilidade devem definir claramente os pontos de decisão que requerem explicação, os públicos-alvo das explicações, os níveis de detalhe esperados e as condições sob as quais as explicações devem ser disponibilizadas, apoiando o uso adequado, a confiança no sistema e a responsabilização sobre seu comportamento.
 
 ## Relacionamentos
