@@ -44,7 +44,7 @@ Uma declaração de posicionamento comunica a intenção do produto e sua import
 
 ### 3.1 Resumo dos stakeholders 
 
-| Elemento                     | Descrição                                      | Responsabilidade                                        |
+| Stakeholders                     | Descrição                                      | Responsabilidade                                        |
 |------------------------------|------------------------------------------------|---------------------------------------------------------|
 | **Cliente**                  | representa a organização que financia o projeto| Garante que os requisitos de explicabilidade estejam alinhados com metas de negócio|
 | **Usuário final**            | interage diretamente com o sistema             | Compreender e confiar nas explicações fornecidas                                   |
